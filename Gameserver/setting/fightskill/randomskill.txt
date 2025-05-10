@@ -1,0 +1,314 @@
+nFactionId	nRouteId	nIndex	nReqLv	nSkillId	Name
+1	1	1	10	21	Phục Ma Đao Pháp
+1	1	2	30	23	Dịch Cân Kinh
+1	1	3	40	25	A La Hán Thần Công
+1	1	4	50	24	Phá Giới Đao Pháp
+1	1	5	60	250	Hàng Long Phục Hổ
+1	1	6	70	26	Bồ Đề Tâm Pháp
+1	1	7	90	27	Thiên Trúc Tuyệt Đao
+1	1	8	100	252	Như Lai Thiên Diệp
+1	1	9	110	819	Thiền Nguyên Công
+1	1	10	120	820	Hàng Long Bất Vũ
+1	1	11	20	10	Khinh công
+1	1	12	70	1200	Đạt Ma Bế Tức
+1	1	13	100	1241	高级秘籍
+1	2	1	10	29	Phổ Độ Côn Pháp
+1	2	2	30	31	Sư Tử Hống
+1	2	3	40	25	A La Hán Thần Công
+1	2	4	50	33	Phục Ma Côn Pháp
+1	2	5	60	34	Bất Động Minh Vương
+1	2	6	70	254	Dịch Cốt Kinh
+1	2	7	90	36	Thất Tinh La Sát Côn
+1	2	8	100	255	Vô Tướng Thần Công
+1	2	9	110	821	Túy Bát Tiên Côn
+1	2	10	120	822	Ma Kha Vô Lượng
+1	2	11	20	10	Khinh công
+1	2	12	70	1201	Kim Cang Bất Hoại
+1	2	13	100	1242	Như Ý Thúc Cốt Công
+2	1	1	10	38	Hồi Phong Lạc Nhạn
+2	1	2	30	41	Đoạn Hồn Thích
+2	1	3	40	45	Tĩnh Tâm Quyết
+2	1	4	50	43	Dương Quan Tam Điệp
+2	1	5	60	256	Kinh Lôi Phá Thiên
+2	1	6	70	46	Thiên Vương Chiến Ý
+2	1	7	90	47	Truy Tinh Trục Nguyệt
+2	1	8	100	259	Huyết Chiến Bát Phương
+2	1	9	110	823	Bôn Lôi Toàn Long Thương
+2	1	10	120	824	Hoành Hành Vô Kỵ
+2	1	11	20	10	Khinh công
+2	1	12	70	1202	Phi Kinh Trảm Thích
+2	1	13	100	1243	Liên Hoàn Đoạt Mệnh Thương
+2	2	1	10	50	Hành Vân Quyết
+2	2	2	30	41	Đoạn Hồn Thích
+2	2	3	40	781	Tĩnh Tâm Thuật
+2	2	4	50	53	Truy Phong Quyết
+2	2	5	60	260	Thiên Vương Bản Sinh
+2	2	6	70	55	Kim Chung Tráo
+2	2	7	90	56	Thừa Long Quyết
+2	2	8	100	262	Bất Diệt Sát Ý
+2	2	9	110	825	Trảm Long Quyết
+2	2	10	120	826	Hóa Kình Quyết
+2	2	11	20	10	Khinh công
+2	2	12	70	1202	Phi Kinh Trảm Thích
+2	2	13	100	1244	Càn Khôn Chùy
+3	1	1	10	69	Độc Thích Cốt
+3	1	2	30	64	Mê Ảnh Tung
+3	1	3	40	71	Câu Hồn Tĩnh
+3	1	4	50	72	Tiểu Lý Phi Đao
+3	1	5	60	263	Hấp Tinh Trận
+3	1	6	70	73	Triền Thân Thích
+3	1	7	90	74	Loạn Hoàn Kích
+3	1	8	100	265	Thực Cốt Huyết Nhẫn
+3	1	9	110	827	Cơ Quan Bí Thuật
+3	1	10	120	828	Ảnh Tung Trận
+3	1	11	20	10	Khinh công
+3	1	12	70	1203	Hàm Sa Xạ Ảnh
+3	1	13	100	1245	Mê Hồn Trận
+3	2	1	10	59	Truy Tâm Tiễn
+3	2	2	30	64	Mê Ảnh Tung
+3	2	3	40	61	Tôi Độc Thuật
+3	2	4	50	62	Thiên La Địa Võng
+3	2	5	60	266	Đoạn Cân Nhẫn
+3	2	6	70	65	Ngự Độc Thuật
+3	2	7	90	66	Bạo Vũ Lê Hoa
+3	2	8	100	268	Tâm Nhãn
+3	2	9	110	829	Thất Tuyệt Sát Quang
+3	2	10	120	830	Tang Hồn Đinh
+3	2	11	20	10	Khinh công
+3	2	12	70	1204	Mãn Thiên Hoa Vũ
+3	2	13	100	1246	Xuyên Vân Tiễn
+4	1	1	10	76	Huyết Đao Độc Sát
+4	1	2	30	78	Vô Hình Cổ
+4	1	3	40	81	Thí Độc Thuật
+4	1	4	50	80	Bách Độc Xuyên Tâm
+4	1	5	60	269	Ôn Cổ Chi Khí
+4	1	6	70	82	Vạn Cổ Thực Tâm
+4	1	7	90	83	Huyền Âm Trảm
+4	1	8	100	271	Thiên Thù Vạn Độc
+4	1	9	110	831	Chu Cáp Thanh Minh
+4	1	10	120	832	Thất Tâm Cổ
+4	1	11	20	10	Khinh công
+4	1	12	70	1205	Hóa Huyết Tiệt Mạch
+4	1	13	100	1247	Huyết Đỉnh Công
+4	2	1	10	86	Độc Sa Chưởng
+4	2	2	30	92	Xuyên Tâm Độc Thích
+4	2	3	40	91	Ngân Ti Phi Thù
+4	2	4	50	90	Thiên Canh Địa Sát
+4	2	5	60	272	Khu Độc Thuật
+4	2	6	70	88	Bi Ma Huyết Quang
+4	2	7	90	93	Âm Phong Thực Cốt
+4	2	8	100	274	Đoạn Cân Hủ Cốt
+4	2	9	110	833	Hóa Cốt Miên Chưởng
+4	2	10	120	834	Lý Đại Đào Cương
+4	2	11	20	10	Khinh công
+4	2	12	70	1206	Truy Phong Độc Thích
+4	2	13	100	1248	Luyện Ngục Hủ Cổ
+5	1	1	10	96	Phiêu Tuyết Xuyên Vân
+5	1	2	30	98	Từ Hàng Phổ Độ
+5	1	3	40	101	Phật Tâm Từ Hựu
+5	1	4	50	99	Tứ Tượng Đồng Quy
+5	1	5	60	479	Bất Diệt Bất Tuyệt
+5	1	6	70	782	Lưu Thủy Tâm Pháp
+5	1	7	90	103	Phong Sương Toái Ảnh
+5	1	8	100	280	Vạn Phật Quy Tông
+5	1	9	110	835	Phật Quang Chiến Khí
+5	1	10	120	836	Diệp Để Tàng Hoa
+5	1	11	20	10	Khinh công
+5	1	12	70	1207	Kim Đỉnh Miên Chưởng
+5	1	13	100	1249	Vạn Tướng Thần Công
+5	2	1	10	107	Phật Âm Chiến Ý
+5	2	2	30	98	Từ Hàng Phổ Độ
+5	2	3	40	101	Phật Tâm Từ Hựu
+5	2	4	50	109	Thiên Phật Thiên Diệp
+5	2	5	60	110	Phật Quang Phổ Chiếu
+5	2	6	70	102	Lưu Thủy Quyết
+5	2	7	90	108	Thanh Âm Phạn Xướng
+5	2	8	100	482	Phổ Độ Chúng Sinh
+5	2	9	110	837	Kiếm Ảnh Phật Quang
+5	2	10	120	838	Thanh Tâm Tịnh Khí
+5	2	11	20	10	Khinh công
+5	2	12	70	1208	Độ Nguyên Công
+5	2	13	100	1250	Liên Hoa Tâm Kinh
+6	1	1	10	111	Phong Quyển Tàn Tuyết
+6	1	2	30	113	Hộ Thể Hàn Băng	Hỗ
+6	1	3	40	115	Tuyết Ảnh
+6	1	4	50	114	Bích Hải Triều Sinh
+6	1	5	60	483	Huyền Băng Vô Tức
+6	1	6	70	116	Tuyết Ánh Hồng Trần
+6	1	7	90	117	Băng Tâm Tiên Tử
+6	1	8	100	485	Phù Vân Tán Tuyết
+6	1	9	110	839	Thập Diện Mai Phục
+6	1	10	120	840	Băng Tâm Ngọc Lăng
+6	1	11	20	10	Khinh công
+6	1	12	70	1209	Vũ Đả Lê Hoa
+6	1	13	100	1251	Phi Tự Phiêu Hoa
+6	2	1	10	120	Phong Hoa Tuyết Nguyệt
+6	2	2	30	122	Ngự Tuyết Ẩn
+6	2	3	40	115	Tuyết Ảnh
+6	2	4	50	123	Mục Dã Lưu Tinh
+6	2	5	60	483	Huyền Băng Vô Tức
+6	2	6	70	124	Băng Tâm Thiến Ảnh
+6	2	7	90	125	Băng Tung Vô Ảnh
+6	2	8	100	486	Thiên Lý Băng Phong
+6	2	9	110	841	Quy Khứ Lai Hề
+6	2	10	120	842	Tương Tư
+6	2	11	20	10	Khinh công
+6	2	12	70	1210	Đạp Tuyết Vô Ngấn
+6	2	13	100	1252	Dạ Lai Tây Phong
+7	1	1	10	128	Kiến Nhân Thân Thủ
+7	1	2	30	130	Hóa Hiểm Vi Di
+7	1	3	40	132	Hoạt Bất Lưu Thủ
+7	1	4	50	131	Hàng Long Hữu Hối
+7	1	5	60	489	Thời Thừa Lục Long
+7	1	6	70	133	Túy Điệp Cuồng Vũ
+7	1	7	90	134	Phi Long Tại Thiên
+7	1	8	100	487	Giáng Long Chưởng
+7	1	9	110	843	Trảo Long Công
+7	1	10	120	844	Triệt Y Thập Bát Điệt
+7	1	11	20	10	Khinh công
+7	1	12	70	1211	Thần Long Bài Vĩ
+7	1	13	100	1253	Bá Vương Tá Giáp
+7	2	1	10	137	Duyên Môn Thác Bát
+7	2	2	30	139	Tiêu Dao Công
+7	2	3	40	132	Hoạt Bất Lưu Thủ
+7	2	4	50	140	Bổng Đả Ác Cẩu
+7	2	5	60	491	Ác Cẩu Lan Lộ
+7	2	6	70	238	Hỗn Thiên Khí Công
+7	2	7	90	141	Thiên Hạ Vô Cẩu
+7	2	8	100	488	Đả Cẩu Bổng Pháp
+7	2	9	110	845	Đả Cẩu Trận Pháp
+7	2	10	120	846	Tung Hạc Công
+7	2	11	20	10	Khinh công
+7	2	12	70	1212	Thâu Long Chuyển Phượng
+7	2	13	100	1254	Minh Sát Thu Hào
+8	1	1	10	143	Tàn Dương Như Huyết
+8	1	2	30	492	Huyễn Ảnh Truy Hồn Thương
+8	1	3	40	145	Kim Thiền Thoát Xác
+8	1	4	50	146	Liệt Hỏa Tình Thiên
+8	1	5	60	147	Bi Tô Thanh Phong
+8	1	6	70	148	Ma Âm Phệ Phách
+8	1	7	90	149	Vân Long Kích
+8	1	8	100	493	Ma Viêm Tại Thiên
+8	1	9	110	847	Phi Hồng Vô Tích
+8	1	10	120	848	Vân Long Tam Hiện
+8	1	11	20	10	Khinh công
+8	1	12	70	1213	Bích Nguyệt Phi Tinh
+8	1	13	100	1255	Cửu Khúc Hợp Thương
+8	2	1	10	151	Đạn Chỉ Liệt Diệm
+8	2	2	30	154	Lệ Ma Đoạt Hồn
+8	2	3	40	145	Kim Thiền Thoát Xác
+8	2	4	50	153	Thôi Sơn Điền Hải
+8	2	5	60	494	Hỏa Liên Phần Hoa
+8	2	6	70	155	Nhiếp Hồn Loạn Tâm
+8	2	7	90	156	Thiên Ngoại Lưu Tinh
+8	2	8	100	496	Ma Diệm Thất Sát
+8	2	9	110	849	Thúc Phọc Chú
+8	2	10	120	850	Ma Đao Thôn Thần
+8	2	11	20	10	Khinh công
+8	2	12	70	1214	Huyền Minh Hấp Tinh
+8	2	13	100	1256	Nghịch Chuyển Tâm Kinh
+9	1	1	10	159	Bác Cập Nhi Phục
+9	1	2	30	161	Tọa Vọng Vô Ngã
+9	1	3	40	163	Thê Vân Tung
+9	1	4	50	162	Vô Ngã Vô Kiếm
+9	1	5	60	497	Thuần Dương Vô Cực
+9	1	6	70	164	Chân Vũ Thất Tiệt
+9	1	7	90	165	Thiên Địa Vô Cực
+9	1	8	100	498	Thái Cực Thần Công
+9	1	9	110	851	Võ Đang Cửu Dương
+9	1	10	120	852	Vạn Kiếm Quy Tông
+9	1	11	20	10	Khinh công
+9	1	12	70	1215	Lưỡng Nghi Tâm Pháp
+9	1	13	100	1257	Bát Quái Du Long
+9	2	1	10	167	Kiếm Phi Kinh Thiên
+9	2	2	30	783	Vô Ngã Tâm Pháp
+9	2	3	40	163	Thê Vân Tung
+9	2	4	50	169	Tam Hoàn Sáo Nguyệt
+9	2	5	60	499	Thái Nhất Chân Khí
+9	2	6	70	170	Thất Tinh Quyết
+9	2	7	90	171	Nhân Kiếm Hợp Nhất
+9	2	8	100	500	Thái Cực Kiếm Pháp
+9	2	9	110	853	Mê Tung Huyễn Ảnh
+9	2	10	120	854	Tử Tiêu Hoành Vân
+9	2	11	20	10	Khinh công
+9	2	12	70	1216	Lưu Tinh Cản Nguyệt
+9	2	13	100	1258	Lưỡng Nghi Kiếm Pháp
+10	1	1	10	175	Hô Phong Pháp
+10	1	2	30	179	Huyền Thiên Vô Cực
+10	1	3	40	177	Thanh Phong Phù
+10	1	4	50	178	Cuồng Phong Sậu Điện
+10	1	5	60	697	Khai Thần Thuật
+10	1	6	70	180	Nhất Khí Tam Thanh
+10	1	7	90	181	Ngạo Tuyết Tiếu Phong
+10	1	8	100	698	Sương Ngạo Côn Lôn
+10	1	9	110	855	Vô Nhân Vô Ngã
+10	1	10	120	856	Hồi Phong Phất Liễu
+10	1	11	20	10	Khinh công
+10	1	12	70	1217	Lưỡng Nghi Chân Khí
+10	1	13	100	1259	Phản Lưỡng Nghi Đao Pháp
+10	2	1	10	188	Cuồng Lôi Chấn Địa
+10	2	2	30	179	Huyền Thiên Vô Cực
+10	2	3	40	177	Thanh Phong Phù
+10	2	4	50	190	Thiên Tế Tấn Lôi
+10	2	5	60	699	Túy Tiên Thác Cốt
+10	2	6	70	191	Đạo Cốt Tiên Phong
+10	2	7	90	192	Lôi Động Cửu Thiên
+10	2	8	100	767	Hỗn Nguyên Càn Khôn
+10	2	9	110	857	Lôi Đình Quyết
+10	2	10	120	858	Nguy Nguy Côn Lôn
+10	2	11	20	10	Khinh công
+10	2	12	70	1218	Hóa Tủy Vô Ý
+10	2	13	100	1260	Ngự Phong Thuật
+11	1	1	10	194	Khai Thiên Thức
+11	1	2	30	199	Khốn Hổ Vân Tiếu
+11	1	3	40	768	Huyền Dương Công
+11	1	4	50	198	Phách Địa Thế
+11	1	5	60	201	Kim Qua Thiết Mã
+11	1	6	70	197	Ngự Mã Thuật
+11	1	7	90	202	Long Thôn Thức
+11	1	8	100	769	Không Tuyệt Tâm Pháp
+11	1	9	110	859	Cửu Hi Hỗn Dương
+11	1	10	120	860	Liệt Diệm Thao Thiên
+11	1	11	20	10	Khinh công
+11	1	12	70	1219	Lưu Tinh Chùy
+11	1	13	100	1261	Hồn Phách Phi Dương
+11	2	1	10	205	Thánh Hỏa Phần Tâm
+11	2	2	30	207	Di Khí Phiêu Tung
+11	2	3	40	209	Phiêu Dực Thân Pháp
+11	2	4	50	208	Vạn Vật Câu Phần
+11	2	5	60	210	Càn Khôn Đại Na Di
+11	2	6	70	770	Thâu Thiên Hoán Nhật
+11	2	7	90	211	Thánh Hỏa Liêu Nguyên
+11	2	8	100	772	Thánh Hỏa Thần Công
+11	2	9	110	861	Thánh Hỏa Lệnh Pháp
+11	2	10	120	862	Hoang Hỏa Ngọc Phần
+11	2	11	20	10	Khinh công
+11	2	12	70	1220	Nhân Huân Tử Khí
+11	2	13	100	1262	Mục Dã Ưng Dương
+12	1	1	10	213	Thần Chỉ Điểm Huyệt
+12	1	2	30	216	Nhất Dương Chỉ
+12	1	3	40	219	Lăng Ba Vi Bộ
+12	1	4	50	217	Nhất Chỉ Càn Khôn
+12	1	5	60	773	Từ Bi Quyết
+12	1	6	70	220	Thí Nguyên Quyết
+12	1	7	90	223	Càn Dương Thần Chỉ
+12	1	8	100	775	Càn Thiên Chỉ Pháp
+12	1	9	110	863	Diệu Đề Chỉ
+12	1	10	120	864	Băng Kiếp Chỉ
+12	1	11	20	10	Khinh công
+12	1	12	70	1221	Bách Bộ Xuyên Dương
+12	1	13	100	1263	Huyền Băng Cửu Kiếp
+12	2	1	10	226	Phong Vân Biến Huyễn
+12	2	2	30	228	Bắc Minh Thần Công
+12	2	3	40	230	Thiên Nam Bộ Pháp
+12	2	4	50	229	Kim Ngọc Mãn Đường
+12	2	5	60	776	Lục Kiếm Tề Phát
+12	2	6	70	231	Khô Vinh Thiền Công
+12	2	7	90	232	Lục Mạch Thần Kiếm
+12	2	8	100	778	Đoàn Gia Khí Kiếm
+12	2	9	110	865	Kinh Thiên Nhất Kiếm
+12	2	10	120	866	Sơ Ảnh
+12	2	11	20	10	Khinh công
+12	2	12	70	1222	Bách Hồng Thực Nhật
+12	2	13	100	1264	Luyện Khí Hoàn Thần
+12	2	14	120	1662	Ám Hương

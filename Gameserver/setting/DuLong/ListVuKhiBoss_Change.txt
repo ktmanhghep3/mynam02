@@ -1,0 +1,89 @@
+Name	Genre	DetailType	ParticularType	Level	Value		
+Trang bị tím PVP_Long Lân Đao (Đao Thiếu)	2	1	5000	9	1		
+Trang bị tím PVP_Yển Nguyệt Đao (Đao Thiếu)	2	1	5001	10	1		
+Trang bị tím PVP_Giác Hải Bổng (Côn Thiếu)	2	1	5002	9	1		
+Trang bị tím PVP_Kim Cô Bổng (Côn Thiếu)	2	1	5003	10	1		
+Trang bị tím PVP_Kinh Lôi Thương (Thương Thiên)	2	1	5004	9	1		
+Trang bị tím PVP_Phá Thiên Kích (Thương Thiên)	2	1	5005	10	1		
+Trang bị tím PVP_Nghiệt Long Chùy (Chùy Thiên)	2	1	5006	9	1		
+Trang bị tím PVP_Phá Thiên Chùy (Chùy Thiên)	2	1	5007	10	1		
+Trang bị tím PVP_Long Lân Đao (Đao Độc)	2	1	5008	9	1		
+Trang bị tím PVP_Yển Nguyệt Đao (Đao Độc)	2	1	5009	10	1		
+Trang bị tím PVP_Bạch Hổ Triền Thủ (Chưởng Độc)	2	1	5010	9	1		
+Trang bị tím PVP_Thanh Long Triền Thủ (Chưởng Độc)	2	1	5011	10	1		
+Trang bị tím PVP_Long Lân Đao (Đao Thúy)	2	1	5012	9	1		
+Trang bị tím PVP_Yển Nguyệt Đao (Đao Thúy)	2	1	5013	10	1		
+Trang bị tím PVP_Bạch Hổ Triền Thủ (Chỉ Đoàn)	2	1	5014	9	1		
+Trang bị tím PVP_Thanh Long Triền Thủ (Chỉ Đoàn)	2	1	5015	10	1		
+Trang bị tím PVP_Bạch Hổ Triền Thủ (Chưởng Nga)	2	1	5016	9	1		
+Trang bị tím PVP_Thanh Long Triền Thủ (Chưởng Nga)	2	1	5017	10	1		
+Trang bị tím PVP_Huyền Thiết Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	2	1	5018	9	1		
+Trang bị tím PVP_Long Uyên Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	2	1	5019	10	1		
+Trang bị tím PVP_Giác Hải Bổng (Côn Cái)	2	1	5020	9	1		
+Trang bị tím PVP_Kim Cô Bổng (Côn Cái)	2	1	5021	10	1		
+Trang bị tím PVP_Kinh Lôi Thương (Chiến Nhẫn)	2	1	5022	9	1		
+Trang bị tím PVP_Phá Thiên Kích (Chiến Nhẫn)	2	1	5023	10	1		
+Trang bị tím PVP_Bạch Hổ Triền Thủ (Chưởng Cái)	2	1	5024	9	1		
+Trang bị tím PVP_Thanh Long Triền Thủ (Chưởng Cái)	2	1	5025	10	1		
+Trang bị tím PVP_Long Lân Đao (Ma Nhẫn)	2	1	5026	9	1		
+Trang bị tím PVP_Yển Nguyệt Đao (Ma Nhẫn)	2	1	5027	10	1		
+Trang bị tím PVP_Long Lân Đao (Đao Côn)	2	1	5028	9	1		
+Trang bị tím PVP_Yển Nguyệt Đao (Đao Côn)	2	1	5029	10	1		
+Trang bị tím PVP_Huyền Thiết Kiếm (Kiếm Võ)	2	1	5030	9	1		
+Trang bị tím PVP_Long Uyên Kiếm (Kiếm Võ)	2	1	5031	10	1		
+Trang bị tím PVP_Huyền Thiết Kiếm (Khí Võ)	2	1	5032	9	1		
+Trang bị tím PVP_Long Uyên Kiếm (Khí Võ)	2	1	5033	10	1		
+Trang bị tím PVP_Huyền Thiết Kiếm (Kiếm Côn)	2	1	5034	9	1		
+Trang bị tím PVP_Long Uyên Kiếm (Kiếm Côn)	2	1	5035	10	1		
+Trang bị cam PVP_Long Lân Đao (Đao Thiếu)	2	1	5036	9	2		
+Trang bị cam PVP_Yển Nguyệt Đao (Đao Thiếu)	2	1	5037	10	2		
+Trang bị cam PVP_Giác Hải Bổng (Côn Thiếu)	2	1	5038	9	2		
+Trang bị cam PVP_Kim Cô Bổng (Côn Thiếu)	2	1	5039	10	2		
+Trang bị cam PVP_Kinh Lôi Thương (Thương Thiên)	2	1	5040	9	2		
+Trang bị cam PVP_Phá Thiên Kích (Thương Thiên)	2	1	5041	10	2		
+Trang bị cam PVP_Nghiệt Long Chùy (Chùy Thiên)	2	1	5042	9	2		
+Trang bị cam PVP_Phá Thiên Chùy (Chùy Thiên)	2	1	5043	10	2		
+Trang bị cam PVP_Long Lân Đao (Đao Độc)	2	1	5044	9	2		
+Trang bị cam PVP_Yển Nguyệt Đao (Đao Độc)	2	1	5045	10	2		
+Trang bị cam PVP_Bạch Hổ Triền Thủ (Chưởng Độc)	2	1	5046	9	2		
+Trang bị cam PVP_Thanh Long Triền Thủ (Chưởng Độc)	2	1	5047	10	2		
+Trang bị cam PVP_Long Lân Đao (Đao Thúy)	2	1	5048	9	2		
+Trang bị cam PVP_Yển Nguyệt Đao (Đao Thúy)	2	1	5049	10	2		
+Trang bị cam PVP_Bạch Hổ Triền Thủ (Chỉ Đoàn)	2	1	5050	9	2		
+Trang bị cam PVP_Thanh Long Triền Thủ (Chỉ Đoàn)	2	1	5051	10	2		
+Trang bị cam PVP_Bạch Hổ Triền Thủ (Chưởng Nga)	2	1	5052	9	2		
+Trang bị cam PVP_Thanh Long Triền Thủ (Chưởng Nga)	2	1	5053	10	2		
+Trang bị cam PVP_Huyền Thiết Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	2	1	5054	9	2		
+Trang bị cam PVP_Long Uyên Kiếm (Kiếm Thúy, Khí Đoàn, Phụ Nga)	2	1	5055	10	2		
+Trang bị cam PVP_Giác Hải Bổng (Côn Cái)	2	1	5056	9	2		
+Trang bị cam PVP_Kim Cô Bổng (Côn Cái)	2	1	5057	10	2		
+Trang bị cam PVP_Kinh Lôi Thương (Chiến Nhẫn)	2	1	5058	9	2		
+Trang bị cam PVP_Phá Thiên Kích (Chiến Nhẫn)	2	1	5059	10	2		
+Trang bị cam PVP_Bạch Hổ Triền Thủ (Chưởng Cái)	2	1	5060	9	2		
+Trang bị cam PVP_Thanh Long Triền Thủ (Chưởng Cái)	2	1	5061	10	2		
+Trang bị cam PVP_Long Lân Đao (Ma Nhẫn)	2	1	5062	9	2		
+Trang bị cam PVP_Yển Nguyệt Đao (Ma Nhẫn)	2	1	5063	10	2		
+Trang bị cam PVP_Long Lân Đao (Đao Côn)	2	1	5064	9	2		
+Trang bị cam PVP_Yển Nguyệt Đao (Đao Côn)	2	1	5065	10	2		
+Trang bị cam PVP_Huyền Thiết Kiếm (Kiếm Võ)	2	1	5066	9	2		
+Trang bị cam PVP_Long Uyên Kiếm (Kiếm Võ)	2	1	5067	10	2		
+Trang bị cam PVP_Huyền Thiết Kiếm (Khí Võ)	2	1	5068	9	2		
+Trang bị cam PVP_Long Uyên Kiếm (Khí Võ)	2	1	5069	10	2		
+Trang bị cam PVP_Huyền Thiết Kiếm (Kiếm Côn)	2	1	5070	9	2		
+Trang bị cam PVP_Long Uyên Kiếm (Kiếm Côn)	2	1	5071	10	2		
+Trang bị tím PVP_Nghiệt Long Chùy (Chùy Minh)	2	1	5072	9	2		
+Trang bị tím PVP_Phá Thiên Chùy (Chùy Minh)	2	1	5073	10	2		
+Trang bị tím PVP_Huyền Thiết Kiếm (Kiếm Minh)	2	1	5074	9	2		
+Trang bị tím PVP_Long Uyên Kiếm (Kiếm Minh)	2	1	5075	10	2		
+Trang bị cam PVP_Nghiệt Long Chùy (Chùy Minh)	2	1	5076	9	2		
+Trang bị cam PVP_Phá Thiên Chùy (Chùy Minh)	2	1	5077	10	2		
+Trang bị cam PVP_Huyền Thiết Kiếm (Kiếm Minh)	2	1	5078	9	2		
+Trang bị cam PVP_Long Uyên Kiếm (Kiếm Minh)	2	1	5079	10	2		
+Trang bị tím PVP_Tuyệt Ảnh Đao (Đao Đường)	2	2	5000	9	2		
+Trang bị tím PVP_Long Hành Đao (Đao Đường)	2	2	5001	10	2		
+Trang bị tím PVP_Thất Tinh Thấu Cốt (Nỏ Đường)	2	2	5002	9	2		
+Trang bị tím PVP_Thiên Ngoại Phi Tiên (Nỏ Đường)	2	2	5003	10	2		
+Trang bị cam PVP_Tuyệt Ảnh Đao (Đao Đường)	2	2	5004	9	2		
+Trang bị cam PVP_Long Hành Đao (Đao Đường)	2	2	5005	10	2		
+Trang bị cam PVP_Thất Tinh Thấu Cốt (Nỏ Đường)	2	2	5006	9	2		
+Trang bị cam PVP_Thiên Ngoại Phi Tiên (Nỏ Đường)	2	2	5007	10	2		

@@ -1,0 +1,8 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	300					250000		Bạc khóa
+		18	1	1	2	244000		Huyền Tinh cấp 2
+		18	1	114	3	360000		Huyền Tinh cấp 3
+		18	1	114	4	60000		Huyền Tinh cấp 4
+		18	1	114	5	6000		Huyền Tinh cấp 5
+		18	1	80	1	50000		Túi phúc
+		18	1	543	1	1000		Sách kinh nghiệm đồng hành

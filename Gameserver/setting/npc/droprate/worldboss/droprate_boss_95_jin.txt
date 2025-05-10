@@ -1,0 +1,18 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	219	1	300000		Võ Lâm Cao Thủ Lệnh (sơ)（金）
+		18	1	220	2	100000		Võ Lâm Cao Thủ Lệnh (trung)（金）
+		18	1	221	3	100000		Võ Lâm Cao Thủ Lệnh (cao)（金）
+		18	1	1	7	159500		Huyền tinh 7
+		18	1	1	8	100000		Huyền tinh 8
+		18	1	1	9	90000		Huyền tinh 9
+500000						150000		50v bạc
+		2	7	503	10	50		Bá Vương Ngoa (Kim)
+		2	7	504	10	50		Huyền Nữ Ngoa (Kim)
+		2	7	505	10	50		Bá Vương Ngoa (Mộc)
+		2	7	506	10	50		Huyền Nữ Ngoa (Mộc)
+		2	7	507	10	50		Bá Vương Ngoa (Thủy)
+		2	7	508	10	50		Huyền Nữ Ngoa (Thủy)
+		2	7	509	10	50		Bá Vương Ngoa (Hỏa)
+		2	7	510	10	50		Huyền Nữ Ngoa (Hỏa)
+		2	7	511	10	50		Bá Vương Ngoa (Thổ)
+		2	7	512	10	50		Huyền Nữ Ngoa (Thổ)

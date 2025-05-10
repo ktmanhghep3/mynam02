@@ -1,0 +1,90 @@
+ID	ImageName	Des
+1	image\effect\other\guanxian_title_1a_vn.spr	Trí Sự
+2	image\effect\other\guanxian_title_2a_vn.spr	Tư Mã
+3	image\effect\other\guanxian_title_3a_vn.spr	Thái Thú
+4	image\effect\other\guanxian_title_4a_vn.spr	Thiếu Khanh
+5	image\effect\other\guanxian_title_5a_vn.spr	Thượng Khanh
+6	image\effect\other\guanxian_title_6a_vn.spr	Quốc Công
+7	image\effect\other\guanxian_title_7a_vn.spr	Thừa Tướng
+8	image\effect\other\guanxian_title_8a_vn.spr	Hoàng Đế
+9	image\danhhieu\DHCaoThuCauCa.spr	Cao Thủ Câu Cá
+10	image\danhhieu\DHXungBaNhatPhuong.spr	Xưng Bá Nhất Phương
+11	image\vongsangvip\DHDietYeuTruMa.spr	Diet Yeu Tru Ma
+99	image\effect\other\keju_title_1a.spr	Ngự Ban Trạng Nguyên
+100	image\effect\other\keju_title_2a.spr	Ngự Ban Bảng Nhãn
+101	image\effect\other\keju_title_3a.spr	Ngự Ban Thám Hoa
+102	image\effect\other\keju_title_4a.spr	Xuất thân tiến sĩ
+195	image\title\tichluynapthe\taitrodong.spr	Danh hiệu Nhà Tài Trợ Đồng
+196	image\title\tichluynapthe\taitrobac.spr	Danh hiệu Nhà Tài Trợ Bạc
+197	image\title\tichluynapthe\taitrovang.spr	Danh hiệu Nhà Tài Trợ Vàng
+198	image\title\tichluynapthe\taitrobachkim.spr	Danh hiệu Nhà Tài Trợ Bạch Kim
+199	image\title\tichluynapthe\thanhvienthanthiet.spr	Thành viên thân thiết
+200	image\title\tichluynapthe\taitrokimcuong.spr	Danh hiệu Nhà Tài Trợ Kim Cương
+201	image\title\tichluynapthe\thanhvienthanthiet.spr	Nạp thẻ hạng 1
+202	image\title\tichluynapthe\taitrodong.spr	Nạp thẻ hạng 2
+203	image\title\tichluynapthe\taitrobac.spr	Nạp thẻ hạng 3
+204	image\title\tichluynapthe\taitrovang.spr	Nạp thẻ hạng 4
+205	image\title\tichluynapthe\taitrobachkim.spr	Nạp thẻ hạng 5
+206	image\title\tichluynapthe\taitrokimcuong.spr	Nạp thẻ hạng 6
+207	image\title\tichluynapthe\KimCuong2.spr	Nạp thẻ hạng 7
+208	image\title\tichluynapthe\KimCuong3.spr	Nạp thẻ hạng 8
+209	image\title\tichluynapthe\KimCuong4.spr	Nạp thẻ hạng 9
+10000	\setting\Immagine\effect\tiitle\zhao_001.spr	Huynh Đệ STPK
+10001	image\effect\other\tianxiadiyi_chanshou.spr	Thiên Hạ Đệ Nhất Chưởng
+10002	image\effect\other\tianxiadiyi_jian.spr	Thiên Hạ Đệ Nhất Kiếm
+10003	image\effect\other\tianxiadiyi_dao.spr	Thiên Hạ Đệ Nhất Đao
+10004	image\effect\other\tianxiadiyi_gun.spr	Thiên Hạ Đệ Nhất Côn
+10005	image\effect\other\tianxiadiyi_qiang.spr	Thiên Hạ Đệ Nhất Thương
+10006	image\effect\other\tianxiadiyi_chui.spr	Thiên Hạ Đệ Nhất Chùy
+10007	image\effect\other\tianxiadiyi_feidao.spr	Thiên Hạ Nhất Phi Đao
+10008	image\effect\other\tianxiadiyi_xiujian.spr	Thiên Hạ Nhất Tụ Tiễn
+10009	image\effect\other\tianxiadiyi_zhang_vn.spr	vnThiên Hạ Đệ Nhất Chưởng
+10010	image\effect\other\tianxiadiyi_jian_vn.spr	vnThiên Hạ Đệ Nhất Kiếm
+10011	image\effect\other\tianxiadiyi_dao_vn.spr	vnThiên Hạ Đệ Nhất Đao
+10012	image\effect\other\tianxiadiyi_gun_vn.spr	vnThiên Hạ Đệ Nhất Côn
+10013	image\effect\other\tianxiadiyi_qiang_vn.spr	vnThiên Hạ Đệ Nhất Thương
+10014	image\effect\other\tianxiadiyi_chui_vn.spr	vnThiên Hạ Nhất Phi Đao
+10015	image\effect\other\tianxiadiyi_feidao_vn.spr	vnThiên Hạ Đệ Nhất Chưởng 2
+10016	image\effect\other\tianxiadiyi_xiujian_vn.spr	vnThiên Hạ Nhất Tu Tiễn
+10017	image\effect\other\tianxiadiyi_duanren_vn.spr	vnĐệ Nhất Đoản Kích
+10018	image\effect\other\vnmeinv1_1.spr	Khuynh quốc khuynh thành
+10019	image\effect\other\vnmeinv1_2.spr	Thướt tha yêu kiều
+10020	image\effect\other\vnmeinv1_3.spr	Bảo bối hot
+10021	image\effect\other\chenshazhizhu.spr	Chủ Thần Sa
+10022	image\effect\other\jiuzhouwangzhe.spr	Cửu Châu Vương Giả
+10023	image\effect\other\shifangzhene.spr	Thập Phương Trấn Ác
+10024	image\effect\other\jingzhongbaoguo.spr	Tinh Trung Báo Quốc
+10025	image\effect\other\jidaotianjiao.spr	Nhất Đại Tôn Sư
+10026	image\effect\other\vnhuhua_qinguolonghua.spr	Khuynh thành vinh hoa
+10027	image\effect\other\vnhuhua_jinyutianxia.spr	Kim ngọc thiên hạ
+10028	image\effect\other\vnhuhua_yizhiqianjin.spr	Thiên Kim
+10029	image\effect\other\xiaoyaoyou.spr	Tiêu Dao Du
+10030	image\effect\other\vn_feilongchengzhu.spr	vn Phi Long Thành Chủ
+10031	image\effect\other\vn_feilongjiang.spr	vn Phi Long Tướng
+10032	image\effect\other\vn_tianxiawushuang.spr	vnThiên Hạ Vô Song
+10033	image\ui\003a\customladder\img_captain_vn.spr	Chưởng môn Tông Môn tự tạo
+10034	image\ui\003a\customladder\img_firstmember_vn.spr	Đại đệ tử Tông Môn tự tạo
+10035	image\effect\other\tianxiadiyi_changdao_vn.spr	vn Thiên Hạ Nhất Trường Đao
+10036	image\effect\other\bangzhanguanjun_vn.spr	Quán Quân Bang Hội Chiến
+10037	image\effect\other\bangzhanyajun_vn.spr	Á Quân Bang Hội Chiến
+10038	image\effect\other\banghuijueding.spr	Tuyệt Đỉnh Bang Hội
+10039	image\effect\other\jianghugaoshou_vn.spr	Giang Hồ Hảo Thủ
+10040	image\effect\other\yiliugaoshou_vn.spr	Nhất Lưu Cao Thủ
+10041	image\effect\other\juedinggaoshou_vn.spr	Tuyệt Đỉnh Cao Thủ
+10042	image\effect\other\sihaiyangsheng_vn.spr	Tứ Hải Dương Danh 
+10043	image\effect\other\jingtiandongdi_vn.spr	Kinh Thiên Động Địa
+10044	image\effect\other\weizhenjiuzhou_vn.spr	Uy Chấn Cửu Châu 
+10045	image\effect\other\junlintianxia_vn.spr	Quân Lâm Thiên Hạ
+10046	image\effect\other\jiuwuzhizun_vn.spr	Cửu Ngũ Chí Tôn
+10047	image\effect\other\yijianfengtian_vn.spr	Nhất Kiếm Phong Thiên 
+10048	image\effect\other\tianxiawudi_vn.spr	Thiên Hạ Vô Địch
+10049	image\effect\other\wulinzhizun_vn.spr	Võ Lâm Chí Tôn
+10050	image\effect\other\diyidaxia_vn.spr	Đại Hiệp Đầu Tiên Trên Giang Hồ
+10051	image\effect\other\zuihoudaxia_vn.spr	Hiệp Khách Cuối Cùng Trên Giang Hồ
+10052	image\effect\other\mingyangtianxia_vn.spr	Vang Danh Thiên Hạ 
+10053	\setting\Immagine\effect\other\dgylvn.spr	vnĐộc Cô Nhất Lang
+10054	\setting\Immagine\effect\other\ydzsvn1.spr	vnNhất Đại Tông Sư
+10055	\setting\Immagine\effect\other\dmxhvn1.spr	vnĐoạt Mệnh Tiêu Hồn
+10056	\setting\Immagine\effect\other\yzqtvn.spr	vnNhất Trụ Kình Thiên
+10057	\setting\Immagine\effect\other\mysyvn.spr	vnVang Danh Bốn Bể
+10058	\setting\Immagine\effect\other\xbtxvn.spr	vnHùng Bá Thiên Hạ

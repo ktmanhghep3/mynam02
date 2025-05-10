@@ -1,0 +1,2 @@
+TaiKhoan	TenNhanVat	VPKhuyenMai	ThoiGianNhan	IP		
+kiemthest2	AdminGame t100- Ngôi Sao May Mắn	2023-09-04 17:21:31	192.168.2.14:1735

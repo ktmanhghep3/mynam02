@@ -1,0 +1,6 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme	
+Thích Khách	0	8159	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\hucthuyhachien\npc\boss01.txt				
+Ác Nhân	0	8160	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\hucthuyhachien\npc\boss02.txt				
+Tân Niên Cận Vệ	0	8161	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\hucthuyhachien\npc\boss03.txt				
+Tân Niên Thống Lĩnh	0	8162	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\hucthuyhachien\npc\boss04.txt				
+Cựu Niên	0	8163	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\hucthuyhachien\npc\boss05.txt				

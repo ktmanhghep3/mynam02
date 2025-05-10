@@ -1,0 +1,6 @@
+TaiKhoan	TenNhanVat	ThuongTop	ThoiGianNhan	IP		
+kiemthest2	AdminGame	1	2024-07-25 11:30:55	27.65.217.9:39874
+satthan1	Skulll	1	2024-07-26 09:25:29	14.190.175.207:60608
+satthan2	Krulll	3	2024-07-26 09:25:48	14.190.175.207:60864
+lingnga	ShenNana	2	2024-07-26 10:35:37	123.18.59.23:29133
+ktsatthan	HamChoi	3	2024-07-26 21:23:47	58.187.65.149:62554

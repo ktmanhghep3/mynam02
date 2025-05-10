@@ -1,0 +1,80 @@
+ID	Question	Answer1	Answer2	Answer3	Result
+1	Kiếm Thế ra đời năm nào?	2010	2011	2009	3
+2	Cách mở Kỳ Trân Các	Ctrl G	Ctrl C	Ctrl V	1
+3	Môn phái Côn Lôn bị khắc chế ngũ hành bởi môn phái nào?	Võ Đang	Đường Môn	Thiên Vương	2
+4	Tổ đội tối đa có bao nhiều người?	3	4	6	3
+5	Rượu Tây Bắc Vọng mang lại lợi ích gì?	Tăng Dame	Tăng Kháng	Tăng Exp	3
+6	Ngũ hành của môn phái Đường Môn là gì?	Hỏa	Mộc	Thổ	2
+7	Vật phẩm nào dùng để reset điểm kỹ năng?	Tẩy Tủy Kinh	Tẩy Thể Đơn	Thánh Linh Đơn	1
+8	Cấp độ tối đa trong Kiếm Thế Sát Thần PK là bao nhiêu?	140	200	160	2
+9	Cách mở bảng kỹ năng nhân vật?	F1	F2	F3	3
+10	Môn phái nào có khả năng hồi máu cho đồng đội?	Thiên Nhẫn	Nga My	Minh Giáo	2
+11	Vật phẩm nào dùng để tăng kinh nghiệm nhanh?	Huyền Tinh	Thẻ X2 Exp	Tu Luyện Châu	3
+12	Ngũ hành khắc chế của môn phái Võ Đang là gì?	Kim	Hỏa	Mộc	3
+13	Trang bị nào thuộc loại Hoàng Kim?	Vũ Khí	Áo Choàng	Ngọc Bội	1
+14	Hoạt động Tống Kim diễn ra vào ngày nào?	Thứ 2	Thứ 4	Tất cả các ngày	3
+15	Môn phái nào sử dụng cung tên làm vũ khí chính?	Đường Môn	Thiên Vương	Minh Giáo	1
+16	Hệ thống PK trong game được chia thành bao nhiêu trạng thái?	3	4	5	3
+17	Môn phái nào có kỹ năng ẩn thân?	Thúy Yên	Đường Môn	Minh Giáo	1
+18	Hoạt động nào mang lại nhiều điểm kinh nghiệm nhất?	Dã Tẩu	Tống Kim	Vận Tiêu	2
+19	Ngũ hành của môn phái Thiên Vương là gì?	Mộc	Kim	Thổ	2
+20	Cách mở bản đồ lớn?	M	F1	Tab	3
+21	Vật phẩm nào cần thiết để nâng cấp trang bị?	Huyền Tinh	Ngọc Bội	Tu Luyện Châu	1
+22	Hoạt động nào yêu cầu bảo vệ xe tiêu?	Vận Tiêu	Dã Tẩu	Tống Kim	1
+23	Môn phái nào có ngũ hành Kim?	Thiên Vương	Võ Đang	Cái Bang	1
+24	Trang bị nào thuộc loại Phòng Cụ?	Nón	Phù	Nhẫn	1
+25	Hoạt động nào diễn ra tại bản đồ Bạch Hổ Đường?	Săn Boss	Luyện Cấp	Đánh Quái	3
+26	Hệ thống bạn bè trong game cho phép tối đa bao nhiêu người?	50	100	150	2
+27	Ngũ hành của môn phái Minh Giáo là gì?	Hỏa	Thổ	Mộc	3
+28	Cách mở giao diện Bang Hội?	Ctrl B	Ctrl G	F7	3
+29	Ngũ hành khắc chế của môn phái Thiên Nhẫn là gì?	Kim	Mộc	Thủy	3
+30	Vũ khí nào của môn phái Võ Đang?	Kiếm	Đao	Côn	1
+31	Ngũ hành của môn phái Cái Bang là gì?	Hỏa	Thủy	Mộc	1
+32	Vật phẩm nào cần để tham gia hoạt động Tống Kim?	Lệnh Bài Tống Kim	Ngọc Tinh Luyện	Tu Luyện Châu	1
+33	Hoạt động nào yêu cầu tranh đoạt cờ?	Tống Kim	Dã Tẩu	Vận Tiêu	1
+34	Ngũ hành của môn phái Ngũ Độc là gì?	Mộc	Hỏa	Kim	1
+35	Bối cảnh của Kiếm Thế xảy ra vào triều đại nào?	Đường	Tống	Nguyên	2
+36	Kiếm Thế lấy cảm hứng từ thế giới võ hiệp của ai?	Kim Dung	Cổ Long	Ngô Thừa Ân	1
+37	Trong bối cảnh Kiếm Thế, môn phái nào nổi tiếng với kiếm pháp uyển chuyển?	Võ Đang	Ngũ Độc	Cái Bang	1
+38	Môn phái nào là hậu duệ của Thiếu Lâm trong bối cảnh Kiếm Thế?	Thiên Vương	Minh Giáo	Côn Lôn	1
+39	Ngũ Độc Môn trong Kiếm Thế đến từ địa danh nào?	Quý Châu	Trường An	Phượng Hoàng Sơn	1
+40	Trong bối cảnh Kiếm Thế, Minh Giáo được xem là gì?	Chính phái	Tà phái	Trung lập	2
+41	Môn phái nào trong Kiếm Thế được xem là đại diện cho công lý?	Võ Đang	Thiếu Lâm	Đường Môn	2
+42	Bối cảnh Kiếm Thế có sự xuất hiện của tổ chức nào nguy hiểm nhất?	Thiên Nhẫn Giáo	Minh Giáo	Ngũ Độc Môn	1
+43	Đường Môn trong Kiếm Thế nổi tiếng với loại vũ khí nào?	Tiễn	Cạm bẫy	Dao găm	1
+44	Côn Lôn Phái trong bối cảnh Kiếm Thế có nguồn gốc từ đâu?	Tây Tạng	Thiểm Tây	Tứ Xuyên	3
+45	Bối cảnh Kiếm Thế diễn ra trong thời kỳ nào?	Chiến Quốc	Phong Kiến	Trung Cổ	2
+46	Trong bối cảnh Kiếm Thế, môn phái nào bảo vệ biên cương đất nước?	Thiên Vương	Đường Môn	Minh Giáo	1
+47	Ngũ Độc Môn trong bối cảnh Kiếm Thế chuyên sử dụng gì để tấn công?	Độc dược	Hỏa khí	Kỹ năng võ thuật	1
+48	Môn phái nào trong Kiếm Thế có nguồn gốc từ võ học Thiên Sơn?	Cái Bang	Côn Lôn	Thiếu Lâm	2
+49	Bối cảnh Kiếm Thế lấy cảm hứng từ câu chuyện nào?	Anh hùng xạ điêu	Thiên Long Bát Bộ	Ỷ Thiên Đồ Long Ký	3
+50	Minh Giáo trong bối cảnh Kiếm Thế nằm ở đâu?	Quang Minh Đỉnh	Thiên Sơn	Ngũ Lĩnh	1
+51	Môn phái nào trong Kiếm Thế nổi tiếng với kỹ năng ám sát?	Đường Môn	Ngũ Độc	Minh Giáo	1
+52	Thiếu Lâm Tự trong bối cảnh Kiếm Thế đại diện cho điều gì?	Hòa bình	Công lý	Trí tuệ	2
+53	Trong bối cảnh Kiếm Thế, môn phái nào gắn liền với ngũ hành Hỏa?	Thiên Nhẫn	Thiếu Lâm	Minh Giáo	1
+54	Người sáng lập Võ Đang trong bối cảnh Kiếm Thế là ai?	Trương Tam Phong	Hoàng Dược Sư	Lệnh Hồ Xung	1
+55	Bối cảnh Kiếm Thế chịu ảnh hưởng từ yếu tố nào?	Chiến đấu chính trị	Tôn giáo và tín ngưỡng	Kinh tế phong kiến	2
+56	Trong bối cảnh Kiếm Thế, môn phái nào nổi tiếng với kỹ năng gây độc?	Ngũ Độc	Võ Đang	Côn Lôn	1
+57	Côn Lôn trong bối cảnh Kiếm Thế thường trú ẩn ở đâu?	Thiên Sơn	Ngọc Long Tuyết Sơn	Hoàng Hà	2
+58	Môn phái nào trong Kiếm Thế có phong cách chiến đấu mạnh mẽ và trực diện?	Thiên Vương	Cái Bang	Minh Giáo	1
+59	Bối cảnh Kiếm Thế thường xoay quanh cuộc tranh đấu giữa điều gì?	Chính và Tà	Thế lực kinh tế	Thế lực hoàng gia	1
+60	Trong bối cảnh Kiếm Thế, ai là người sáng lập Ngũ Độc Môn?	Lý Mạc Sầu	Linh Thứu Cô Cô	Ngũ Độc Giáo Chủ	3
+61	Môn phái nào trong Kiếm Thế có nguồn gốc từ Trung Nguyên?	Thiếu Lâm	Minh Giáo	Đường Môn	1
+62	Bối cảnh của các hoạt động trong Kiếm Thế diễn ra ở đâu?	Thành thị	Núi rừng	Khắp nơi	3
+63	Trong bối cảnh Kiếm Thế, môn phái nào đại diện cho lối sống giang hồ tự do?	Cái Bang	Ngũ Độc	Minh Giáo	1
+64	Bối cảnh Kiếm Thế thường xuyên nhắc đến điều gì?	Gia tộc chiến	Tranh đoạt bí kíp	Thương mại	2
+65	Du Long Giác là vật phẩm thuộc loại nào?	Trang bị	Nguyên liệu	Vật phẩm sự kiện	2
+66	Du Long Giác được sử dụng để làm gì?	Tăng kinh nghiệm	Tăng kỹ năng chế tạo	Nâng cấp trang bị	3
+67	Nguyên liệu nào cần thiết để chế tạo Du Long Giác?	Huyền Tinh	Ngọc Thạch	Không chế tạo	3
+68	Du Long Giác thường rơi ở bản đồ nào?	Địa Cung	Hoạt động Du Long Giác	Thiên Quân Phủ	2
+69	Trong bối cảnh, Du Long Giác được mô tả như thế nào?	Vật phẩm thần bí	Vật phẩm chế tạo thông thường	Vật phẩm trang trí	1
+70	Cách nhanh nhất để thu thập Du Long Giác?	Các hoạt động thuộc Du Long Giác	Dã Tẩu	Vận Tiêu	1
+71	Du Long Giác có thể giao dịch hay không?	Có	Không	Chỉ khi không khóa	3
+72	Hoạt động nào có tỷ lệ rơi Du Long Giác cao nhất?	Tống Kim	Vận Tiêu	Tất cả	3
+73	Du Long Giác có thể đổi lấy gì trong game?	Trang bị, Kỹ Năng	Ngọc Tinh Luyện	Kinh nghiệm	1
+74	Người chơi cần đạt cấp độ nào để sử dụng Du Long Giác?	50	60	Trên 100	3
+75	Ngũ hành nào được cho là liên quan đến Du Long Giác?	Kim	Hỏa	Vô	3
+76	Tần Lăng là bản đồ thuộc cấp độ nào?	80	90	120	3
+77	Hoạt động chính trong Tần Lăng là gì?	Săn Boss	Tìm bảo vật	Thu thập nguyên liệu	1
+78	Tần Lăng nổi tiếng với loại quái nào?	Xác Ướp	Bóng Ma	Chiến Binh Tần Vương	3
+79	Boss chính trong Tần Lăng được gọi là gì?	Ngũ Hành Hộ Vệ	Cô Ảnh Tần Vương	Tần Lăng Thủ Vệ	2

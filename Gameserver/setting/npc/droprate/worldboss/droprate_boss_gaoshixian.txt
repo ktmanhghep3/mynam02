@@ -1,0 +1,26 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	4	431900		Huyền Tinh cấp 4
+		18	1	1	5	200000		Huyền Tinh cấp 5
+		18	1	1	6	100000		Huyền Tinh cấp 6
+		18	1	1	7	50000		Huyền Tinh cấp 7
+		18	1	1	8	30000		Huyền Tinh cấp 8
+		18	1	1	9	10000		Huyền Tinh cấp 9
+		2	1	787	6	1200		Liệt Diệm Đao-Đao Thúy (Trang bị cam cấp 6 PvsP)
+		2	1	427	6	3400		Liệt Diệm Đao-Đao Thúy (Trang bị tím cấp 6 PvsP)
+		2	1	786	5	2400		Nguyệt Nha Đao-Đao Thúy (Trang bị cam cấp 5 PvsP)
+		2	1	426	5	6800		Nguyệt Nha Đao-Đao Thúy (Trang bị tím cấp 5 PvsP)
+		2	1	816	5	2400		Long Tuyền Kiếm-Kiếm Thúy (Trang bị cam cấp 5 PvsP)
+		2	1	456	5	6800		Long Tuyền Kiếm-Kiếm Thúy (Trang bị tím cấp 5 PvsP)
+		2	1	817	6	1200		Vạn Nhẫn Kiếm-Kiếm Thúy (Trang bị cam cấp 6 PvsP)
+		2	1	457	6	3400		Vạn Nhẫn Kiếm-Kiếm Thúy (Trang bị tím cấp 6 PvsP)
+500000						150000		Bạc 50v
+		2	7	503	10	50		Bá Vương Ngoa (Kim)
+		2	7	504	10	50		Huyền Nữ Ngoa (Kim)
+		2	7	505	10	50		Bá Vương Ngoa (Mộc)
+		2	7	506	10	50		Huyền Nữ Ngoa (Mộc)
+		2	7	507	10	50		Bá Vương Ngoa (Thủy)
+		2	7	508	10	50		Huyền Nữ Ngoa (Thủy)
+		2	7	509	10	50		Bá Vương Ngoa (Hỏa)
+		2	7	510	10	50		Huyền Nữ Ngoa (Hỏa)
+		2	7	511	10	50		Bá Vương Ngoa (Thổ)
+		2	7	512	10	50		Huyền Nữ Ngoa (Thổ)

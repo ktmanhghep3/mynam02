@@ -1,0 +1,11 @@
+TaiKhoan	TenNhanVat	VatPhamThuong	Time	IP		
+1	PhụngAnh	Trang Bị hệ Kim	2024-06-15 11:16:25	192.168.2.14:18415
+1	PhụngAnh	Trang Bị hệ Kim	2024-06-15 11:16:34	192.168.2.14:18415
+1	PhụngAnh	Trang Bị hệ Kim	2024-06-15 11:16:40	192.168.2.14:18415
+1	PhụngAnh	Trang Bị hệ Kim	2024-06-15 11:16:50	192.168.2.14:18415
+testskill	HàmVân	Trang Bị hệ Kim	2024-08-01 11:28:12	192.168.2.14:3300
+testskill	HàmVân	Trang Bị hệ Moc	2024-08-01 11:28:18	192.168.2.14:3300
+testskill	HàmVân	Trang Bị hệ Hoa	2024-08-01 11:28:34	192.168.2.14:3300
+testskill	HàmVân	Trang Bị hệ Tho	2024-08-01 11:28:40	192.168.2.14:3300
+testskill	HàmVân	Trang Bị hệ Kim	2024-08-01 11:29:36	192.168.2.14:3300
+testskill	HàmVân	Trang Bị hệ Hoa	2024-08-01 11:29:42	192.168.2.14:3300

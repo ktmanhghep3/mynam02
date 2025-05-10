@@ -1,0 +1,47 @@
+SuiteID	Name	SuiteNum1	SuiteMA1Name	SuiteMA1PA1	SuiteMA1PA2	SuiteMA1PA3	SuiteNum2	SuiteMA2Name	SuiteMA2PA1	SuiteMA2PA2	SuiteMA2PA3	SuiteNum3	SuiteMA3Name	SuiteMA3PA1	SuiteMA3PA2	SuiteMA3PA3	SuiteNum4	SuiteMA4Name	SuiteMA4PA1	SuiteMA4PA2	SuiteMA4PA3	Head	Body	Belt	Weapon	Foot	Cuff	Amulet	Ring	Necklace	Pendant	Horse	Mask	Book
+1	Bộ Tiêu Dao	2	adddefense_v	100	0	0	3	deadlystrikeenhance_r	35	0	0															Tiêu Dao Ngoa	Tiêu Dao Hộ Uyển				Tiêu Dao Ngọc Bội			
+2	Bộ Tiêu Dao (Nữ)	2	adddefense_v	100	0	0	3	deadlystrikeenhance_r	35	0	0															Tiêu Dao Đạp Lãng Ngoa	Tiêu Dao Tường Phượng Thủ Trạc				Tiêu Dao Băng Nguyệt Hương Nang			
+3	Bộ Võ Lâm Liên Đấu	2	lifemax_v	150	0	0	3	damage_all_resist	45	0	0												Vũ Uy Y					Vũ Uy Hộ Thân Phù	Vũ Uy Giới					
+4	Bộ Tranh đoạt lãnh thổ	2	lifemax_p	8	0	0	3	deadlystrikedamageenhance_p	15	0	0											Trục Lộc Thương Khung Quán		Trục Lộc Hoàng Long Triền Yêu						Trục Lộc Thiên Hựu Liên				
+5	Bộ Thủy Hoàng	2	allseriesstateresisttime	50	0	0	3	damage_all_resist	45	0	0												Thủy Hoàng Y				Thủy Hoàng Hộ Uyển				Thủy Hoàng Yêu Trụy			
+6	Bộ Tinh Thông	3	damage_all_resist	55	0	0	5	allseriesstateresisttime	55	0	0	7	deadlystrikedamageenhance_p	25	0	0	9	adddefense_v	55	0	0													
+9	Bộ Hoàn Mỹ	3	damage_all_resist	120	0	0	5	allseriesstateresisttime	120	0	0	7	deadlystrikedamageenhance_p	50	0	0	9	adddefense_v	120	0	0													
+10	Bộ Huyền Thoại	3	damage_all_resist	140	0	0	5	allseriesstateresisttime	140	0	0	7	deadlystrikedamageenhance_p	55	0	0	9	allskill_v	1	1	896													
+11	Bộ Thiên Ngự Sương Tinh	3	damage_all_resist	200	0	0	5	allseriesstateresisttime	160	0	0	7	deadlystrikedamageenhance_p	70	0	0	9	allskill_v	1	1	896													
+12	Bộ Thiên Ngự Dạ Nguyệt	3	damage_all_resist	250	0	0	5	allseriesstateresisttime	180	0	0	7	deadlystrikedamageenhance_p	80	0	0	9	allskill_v	2	2	896													
+13	Bộ Thiên Ngự Diệu Dương	3	damage_all_resist	300	0	0	5	allseriesstateresisttime	200	0	0	7	deadlystrikedamageenhance_p	90	0	0	9	allskill_v	2	2	896													
+14	Bộ Bát Hoang Sương Tinh	3	damage_all_resist	400	0	0	5	allseriesstateresisttime	220	0	0	7	deadlystrikedamageenhance_p	100	0	0	9	allskill_v	3	3	896													
+15	Bộ Bát Hoang Dạ Nguyệt	3	damage_all_resist	500	0	0	5	allseriesstateresisttime	240	0	0	7	deadlystrikedamageenhance_p	110	0	0	9	allskill_v	3	3	896													
+16	Bộ Bát Hoang Diệu Dương	3	damage_all_resist	700	0	0	5	allseriesstateresisttime	260	0	0	7	deadlystrikedamageenhance_p	120	0	0	9	allskill_v	4	4	896													
+17	Mạn Đà Nhị Phẩm	3	damage_all_resist	210	0	0	5	allseriesstateresisttime	170	0	0	7	deadlystrikedamageenhance_p	80	0	0	9	allskill_v	1	1	896													
+18	Mạn Đà Nhất Phẩm	3	damage_all_resist	220	0	0	5	allseriesstateresisttime	180	0	0	7	deadlystrikedamageenhance_p	90	0	0	9	allskill_v	1	1	896													
+19	Hoàng Kim Hiệp Lữ	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1751													
+20	Hoàng Kim Hiệp Lữ	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1751													
+21	Độc Lãng Tiêu Dao	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1752													
+22	Hiệp Độc Tiêu Dao	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1752													
+23	Bạch Hiệp	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1753													
+24	Băng Thanh	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1753													
+25	Lưu Viêm	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1754													
+26	Xích Vũ	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1754													
+27	Sương Ngạo Giang Sơn	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1755													
+28	Hồi Phong Phất Liễu	3	damage_all_resist	850	0	0	5	allseriesstateresisttime	300	0	0	7	deadlystrikedamageenhance_p	130	0	0	9	allskill_v	1	1	1755													
+29	Phổ Độ Hoàng Kim	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1751													
+30	Tu La Hoàng Kim	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1751													
+31	Ngọc Bích Thanh Vân	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1752													
+32	Ngọc Bích Huyền Vân	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1752													
+33	Lưu Vũ Băng Châu	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1753													
+34	Ngọc Khiết Lãnh Hàn	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1753													
+35	Phong Viêm	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1754													
+36	Xích Vân	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1754													
+37	Tiếu Phong	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1755													
+38	Ngạo Tuyết	3	damage_all_resist	1000	0	0	5	allseriesstateresisttime	320	0	0	7	deadlystrikedamageenhance_p	145	0	0	9	allskill_v	2	2	1755													
+39	Kế Nghiệp Chiến Tướng	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1751													
+40	Kế Nghiệp Nữ Hùng	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1751													
+41	Thánh Hỏa Liêu Nguyên	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1752													
+42	Thánh Nữ	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1752													
+43	Sa Châu Mạn Thủy	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1753													
+44	Băng Vân Vạn Thủy	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1753													
+45	Liệt Hỏa Chiến Tướng	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1754													
+46	Liệt Hỏa Chiến Tướng	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1754													
+47	Hỗn Nguyên Càn Khôn	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1755													
+48	Huyền Thiên Vô Cực	3	damage_all_resist	1250	0	0	5	allseriesstateresisttime	350	0	0	7	deadlystrikedamageenhance_p	160	0	0	9	allskill_v	3	3	1755													

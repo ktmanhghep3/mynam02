@@ -1,0 +1,26 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	4	429150		Huyền Tinh cấp 4
+		18	1	1	5	200000		Huyền Tinh cấp 5
+		18	1	1	6	100000		Huyền Tinh cấp 6
+		18	1	1	7	50000		Huyền Tinh cấp 7
+		18	1	1	8	30000		Huyền Tinh cấp 8
+		18	1	1	9	10000		Huyền Tinh cấp 9
+		2	1	757	6	1500		錘天狼牙錘（6級橙裝PvsP）
+		2	1	397	6	5255		錘天狼牙錘（6級紫裝PvsP）
+		2	1	756	5	3000		錘天霹靂錘（5級橙裝PvsP）
+		2	1	396	5	10510		錘天霹靂錘（5級紫裝PvsP）
+		2	1	767	6	700		刀毒烈焰刀（6級橙裝PvsP）
+		2	1	407	6	2630		刀毒烈焰刀（6級紫裝PvsP）
+		2	1	766	5	1500		刀毒月牙刀（5級橙裝PvsP）
+		2	1	406	5	5255		刀毒月牙刀（5級紫裝PvsP）
+500000						150000		Bạc 50v
+		2	7	503	10	50		Bá Vương Ngoa (Kim)
+		2	7	504	10	50		Huyền Nữ Ngoa (Kim)
+		2	7	505	10	50		Bá Vương Ngoa (Mộc)
+		2	7	506	10	50		Huyền Nữ Ngoa (Mộc)
+		2	7	507	10	50		Bá Vương Ngoa (Thủy)
+		2	7	508	10	50		Huyền Nữ Ngoa (Thủy)
+		2	7	509	10	50		Bá Vương Ngoa (Hỏa)
+		2	7	510	10	50		Huyền Nữ Ngoa (Hỏa)
+		2	7	511	10	50		Bá Vương Ngoa (Thổ)
+		2	7	512	10	50		Huyền Nữ Ngoa (Thổ)

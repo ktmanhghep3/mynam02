@@ -1,0 +1,49 @@
+ID vật phẩm	Miêu tả vật phẩm
+1	Bạch Câu Hoàn
+2	Đại Bạch Câu Hoàn
+3	Cường Hiệu Bạch Câu Hoàn
+4	Thỏi vàng (đại)
+5	Thỏi vàng
+6	Thùng rượu (5 bình)
+7	Thùng rượu (50 bình)
+8	Vô Hạn Truyền Tống Phù (1 tuần)
+9	Vô Hạn Truyền Tống Phù (1 tháng)
+10	Vô Hạn Hồi Thành Phù (1 tuần)
+11	Vô Hạn Hồi Thành Phù (1 tháng)
+12	Càn Khôn Phù (10)
+13	Lệnh bài triệu hồi gia tộc
+14	Giấy phép bày bán
+15	Cửu Chuyển Tục Mệnh Hoàn
+16	Lệnh Bài Hình Bộ
+17	Từ Bi Tâm Kinh
+18	Không Bạch Tâm Thư (sơ)
+19	Không Bạch Tâm Thư (trung)
+20	Kim Tê (cấp 4)
+21	Kim Tê (cấp 3)
+22	Lệnh bài Tẩy Tủy Đảo
+23	Tinh Khí Tán (500)
+24	Hoạt Khí Tán (500)
+25	Hoạt Khí Tán (1000)
+26	Tinh Khí Tán (1000)
+27	Tinh Khí Tán (1500)
+28	Hoạt Khí Tán (1500)
+29	Thiên Nhãn Phù
+30	Bản đồ bí cảnh
+31	Chìa khóa đồng
+32	Chìa khóa bạc
+33	Chìa khóa vàng
+34	Ốc biển truyền thanh (tiểu)
+35	Ốc biển truyền thanh (trung)
+36	Đặc Hiệu Bạch Câu Hoàn
+50	Nguyệt ảnh thạch
+51	Rương Linh Chi Tục Mệnh Hoàn
+52	Rương Tuyết Sam Phản Khí Hoàn
+53	Rương Diêu Trì Đại Hoàn Đơn
+54	Lệnh bài mở rộng rương Lv2
+55	Nguyệt ảnh thạch rương
+56	Ốc biển truyền thanh (đại)
+57	Vạn Vật Quy Nguyên Đơn
+58	Bách Luyện Hoàn
+59	Tu Luyện Đơn
+62	Thiên lý truyền âm
+63	Thiên lý truyền âm (lớn)

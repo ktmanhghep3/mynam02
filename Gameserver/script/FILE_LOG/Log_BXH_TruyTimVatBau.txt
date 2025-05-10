@@ -1,0 +1,5 @@
+TenNhanVat	LoaiTrangBiGioiHan	ThoiGianNhan	IP		
+Skulll	Thanh Loan Đại Kiếm	27-08-2024	117.5.153.102:14214
+Krulll	Thanh Loan Đại Kiếm	07-09-2024	117.5.152.81:10200
+Krulll	Thanh Loan Đại Kiếm	15-09-2024	117.5.153.128:48589
+xXxMOZAxXx	Thanh Loan Đại Kiếm	21-11-2024	171.224.177.18:8475

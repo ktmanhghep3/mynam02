@@ -1,0 +1,11 @@
+STT	TenNhanVat	TongDiem
+1	Skulll	841
+2	GauMapDiz	466
+3	HạtBụiNhỏ	454
+4	Krulll	426
+5	LaCuong	214
+6	QuynhTrang	79
+7	PhuongOanh	70
+8	BeoCaca	63
+9	x0TrumCaKhia0x	57
+10	MinhCoCa	34

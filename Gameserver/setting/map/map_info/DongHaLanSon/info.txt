@@ -1,0 +1,16 @@
+NpcName	Class	NpcTemplateId	NpcType	NpcCamp	NpcLevel	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	NpcTreasure	NpcDroprate	XPos	YPos	NpcPosFile	Removewhendeath	Quantity	ChangeColorScheme
+trap_antoan	1															\setting\map\map_info\DongHaLanSon\trap\trap_antoan.txt	1		
+trap_chiendau	1															\setting\map\map_info\DongHaLanSon\trap\trap_chiendau.txt	1		
+Thiết Kỵ Song Đao	0	8035	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\DongHaLanSon\npc\minions01.txt			
+Quân Cảnh Vệ	0	8036	0	5	125	1	20	20	20	20	20	1				\setting\map\map_info\DongHaLanSon\npc\minions02.txt			
+Dã Luyện Đại Sư	0	3574	3	5	130	1	20	20	20	20	20	1		48416	95616				
+Tiệm thuốc	0	3564	3	5	130	1	20	20	20	20	20	1		48224	95808				
+Xa Phu	0	2597	3	5	130	1	20	20	20	20	20	1		48000	95808				
+Thủ Khố	0	2599	3	5	130	1	20	20	20	20	20	1		47840	95712				
+Điểm rời bản đồ	0	8037	4	5	45	1	20	20	20	20	20	1		48384	94720		1		
+Tử Sa Khoáng	0	8171	3	5	60	1	20	20	20	20	20	1		54144	96000				
+Thanh Sa Khoáng	0	8172	3	5	60	1	20	20	20	20	20	1		50496	97216				
+Mật Thư Tình Báo	0	8173	3	5	60	1	20	20	20	20	20	1		55424	102432				
+Mảnh Giáp Lan Sơn	0	8174	3	5	60	1	20	20	20	20	20	1		59104	97472				
+Anh Hùng Tửu	0	8175	3	5	60	1	20	20	20	20	20	1		55264	97312				
+Dân tị nạn	0	8180	3	5	60	1	20	20	20	20	20	1		54880	101888				

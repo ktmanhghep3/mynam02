@@ -1,0 +1,24 @@
+Name	Genre	DetailType	ParticularType	Level
+Du Long Giác	18	1	4038	1
+Du Long: Trang bị Vô Cực	18	1	4039	1
+Du Long: Vũ khí Thanh Hạ	18	1	4039	2
+Du Long: Vũ khí Thương Phong	18	1	4039	3
+Du Long: Mặt Nạ Cao cấp	18	1	4039	4
+Du Long: Ngoại Trang Vip	18	1	4039	5
+Du Long: Phi Phong Cao Cấp	18	1	4039	6
+Du Long: Tuyệt kỹ Trấn Phái	18	1	4039	7
+Du Long: Bí kiếp Môn phái	18	1	4039	8
+Du Long: Ngựa Cao Cấp	18	1	4039	9
+Du Long: Đồng Hành Cao Cấp	18	1	4039	10
+Du Long: Tuyệt Thế Giang Hồ	18	1	4039	11
+Du Long: Nguyên Liệu Cao Cấp	18	1	4039	12
+Rương Du Long: Trang bị Vô Cực-Sơ	18	1	4040	1
+Rương Du Long: Trang bị Vô Cực-Trung	18	1	4040	2
+Rương Du Long: Trang bị Vô Cực-Đại Viễn	18	1	4040	3
+Tử Sa Khoáng	18	1	4041	1
+Thanh Sa Khoáng	18	1	4041	2
+Mật Thư Tình Báo	18	1	4041	3
+Mảnh Giáp Lan Sơn	18	1	4041	4
+Anh Hùng Tửu	18	1	4041	5
+Bản đồ Bích Ba Động chưa giám định	18	1	4041	6
+Bản đồ Bích Ba Động	18	1	4041	7

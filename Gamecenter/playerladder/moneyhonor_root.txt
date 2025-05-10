@@ -1,0 +1,84 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2022-09-18 15:00:01
+1	root	z	NgaMyChưởng	 Nga My	 Nga My	129	Nữ	VoSong	VôSongPK	568172
+2	root	haiktq111	testvosong	 Thiên Vương	 Thiên Vương	123	Nam	PKvosong	Không bang hội	502177
+3	root	hatx1402	BăngSương	 Thiên Nhẫn	 Thiên Nhẫn	120	Nữ	VoSong	VôSongPK	449169
+4	root	sbdss22s22	ChaoEmGai	 Đường Môn	 Đường Môn	120	Nam	Không gia tộc	Không bang hội	305759
+5	root	haikt2121	tetsvvs2	 Ngũ Độc	 Ngũ Độc	120	Nam	Không gia tộc	Không bang hội	297455
+6	root	haiktvosong	zombile	 Ngũ Độc	 Ngũ Độc	122	Nam	Không gia tộc	Không bang hội	297455
+7	root	haiktqqq	testsv2	Đoàn Thị	Đoàn Thị	121	Nam	Không gia tộc	Không bang hội	292928
+8	root	volvoll	ChânQuân	 Minh Giáo	 Minh Giáo	129	Nam	Không gia tộc	Không bang hội	229454
+9	root	nctnoo01	zzNCTzz	Đoàn Thị	Đoàn Thị	120	Nam	Không gia tộc	Không bang hội	226383
+10	root	huynhtrong1502	sssssssss	 Thiếu Lâm	 Thiếu Lâm	120	Nam	ttttttttt	444444444444	214608
+11	root	tienphat	TienPhat	 Đường Môn	 Tụ Tiễn	120	Nam	VoSong	VôSongPK	175788
+12	root	sharkbinh5	KíchThần	 Cái Bang	 Cái Bang	120	Nam	SharkTank	ThánhKiếm	158113
+13	root	sharkbinh1	KiếmĐế	 Võ Đang	 Võ Đang	120	Nam	KiếmThần	ThánhKiếm	157118
+14	root	sharkbinh3	KiếmTiên	 Nga My	 Nga My	120	Nữ	KiếmThần	ThánhKiếm	157066
+15	root	ledinhdung	MrClick	 Thiên Vương	 Thương Thiên	120	Nam	Không gia tộc	Không bang hội	152055
+16	root	sharkbinh	SharkBình	 Thiên Nhẫn	 Thiên Nhẫn	129	Nam	Không gia tộc	Không bang hội	150921
+17	root	linhlila	teslauqa	 Minh Giáo	 Minh Giáo	120	Nam	Không gia tộc	Không bang hội	122395
+18	root	sbdss22s2	LâuLan	 Minh Giáo	 Minh Giáo	120	Nam	Không gia tộc	Không bang hội	97846
+19	root	sbdss22s	CổThành	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	97846
+20	root	binhbeo	7UPxBigBoom	 Cái Bang	 Cái Bang	120	Nam	Không gia tộc	Không bang hội	86717
+21	root	thanhnam	ThuThảo	 Thúy Yên	 Thúy Yên	120	Nữ	Không gia tộc	Không bang hội	86707
+22	root	x	sharkhieu	 Thiên Vương	 Thiên Vương	129	Nam	Không gia tộc	Không bang hội	86406
+23	root	sharkbinh2	KiếmThần	 Đường Môn	 Đường Môn	120	Nữ	Không gia tộc	Không bang hội	86334
+24	root	a	testne	 Đường Môn	 Đường Môn	120	Nam	VôSong	Không bang hội	86333
+25	root	testtestne	xcvcxvcx	 Thiên Vương	 Thiên Vương	120	Nam	Không gia tộc	Không bang hội	86299
+26	root	beobeo	TomaHawk	 Thúy Yên	 Thúy Yên	120	Nam	Không gia tộc	Không bang hội	44620
+27	root	rapper	zXiaoLin	 Đường Môn	 Đường Môn	120	Nam	Không gia tộc	Không bang hội	44167
+28	root	bodauto	KhanLie	 Ngũ Độc	 Ngũ Độc	120	Nam	Không gia tộc	Không bang hội	29549
+29	root	kutetruong	TonyPhạm	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	26583
+30	root	nqtnqt	zzNQTzz	 Đường Môn	 Đường Môn	120	Nam	Không gia tộc	Không bang hội	20244
+31	root	alohantt	KimLee	 Thiên Vương	 Thiên Vương	120	Nam	Không gia tộc	Không bang hội	16140
+32	root	hatx2	BangMy	 Nga My	 Nga My	120	Nữ	Không gia tộc	Không bang hội	15317
+33	root	test	SharkBinh	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	15233
+34	root	vvds	vdvdvdvdvdvdvdvd	 Cái Bang	 Cái Bang	120	Nam	Không gia tộc	Không bang hội	15000
+35	root	c	cccccs	 Thiếu Lâm	 Thiếu Lâm	120	Nam	Không gia tộc	Không bang hội	13351
+36	root	aaa	aaaaaa	 Thiên Vương	 Thiên Vương	120	Nam	kkkkkkkkkkkk	dfghfdhgf	12633
+37	root	binhbeow	7UPxSoàiXanh	 Thiếu Lâm	 Thiếu Lâm	120	Nam	Không gia tộc	Không bang hội	12584
+38	root	linhlilaa	ZzZTesLazZz	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	11811
+39	root	hiepkhach	oICsVuKiem	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	11234
+40	root	pantsan1	ĐếnBênMưa	 Ngũ Độc	 Ngũ Độc	120	Nữ	Không gia tộc	Không bang hội	10998
+41	root	linhlilaaa	Botasla	 Nga My	 Nga My	120	Nữ	Không gia tộc	Không bang hội	10438
+42	root	kutruong	PắpKải	Chưa	Chưa	120	Nữ	Không gia tộc	Không bang hội	10320
+43	root	nnn	zzVoSongPKzz	 Côn Lôn	 Côn Lôn	129	Nam	VoSong	VôSongPK	10223
+44	root	xuanvu	ZúXeÔm	 Thúy Yên	 Thúy Yên	120	Nam	Không gia tộc	Không bang hội	9842
+45	root	naq24	NamThan	 Võ Đang	 Võ Đang	120	Nam	Không gia tộc	Không bang hội	9697
+46	root	haiktq222	testsvvosong	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	9646
+47	root	testnapne	thanmakiem	 Thiên Vương	 Thiên Vương	120	Nam	MotMinh	MộtMình	9633
+48	root	binhbeor	7UPxDưaXanh	 Côn Lôn	 Côn Lôn	120	Nam	Không gia tộc	Không bang hội	9431
+49	root	binhbeot	7UPxNhoXanh	 Nga My	 Nga My	120	Nữ	Không gia tộc	Không bang hội	9430
+50	root	binhbeoe	7UPxTáoXanh	 Đường Môn	 Đường Môn	120	Nam	Không gia tộc	Không bang hội	9427
+51	root	binhbeoq	7UPxChuốiXanh	 Thiên Vương	 Thiên Vương	120	Nam	Không gia tộc	Không bang hội	9420
+52	root	hjmyeua	ÔiĐànBà	 Thiên Nhẫn	 Ma Nhẫn	120	Nam	Không gia tộc	Không bang hội	8971
+53	root	bonhoc	MinhGiaoThanKiem	 Minh Giáo	 Minh Giáo	120	Nữ	Không gia tộc	Không bang hội	8857
+54	root	qtrung8000	HuyếtLôi	 Đường Môn	 Tụ Tiễn	120	Nam	Không gia tộc	Không bang hội	8851
+55	root	adkihd	ZzVodichset	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	8847
+56	root	thahntungz	VânLong	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	8847
+57	root	koolken	LeuLeu	 Cái Bang	 Cái Bang	120	Nam	Không gia tộc	Không bang hội	8847
+58	root	socbaby	TynTyn	 Thiên Nhẫn	 Ma Nhẫn	120	Nam	Không gia tộc	Không bang hội	8847
+59	root	nambui3994	Cruise	 Thiếu Lâm	 Thiếu Lâm	120	Nam	Không gia tộc	Không bang hội	8841
+60	root	xuanvu2	EZZZZZ	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	8245
+61	root	hiennguyen1	MưaĐiBạnƠi	 Thiên Nhẫn	 Thiên Nhẫn	120	Nữ	Không gia tộc	Không bang hội	7856
+62	root	dolcez	olSongSong	 Võ Đang	 Võ Đang	120	Nam	Không gia tộc	Không bang hội	7847
+63	root	vosongpkne	testvosongpk	 Côn Lôn	 Côn Lôn	120	Nam	Không gia tộc	Không bang hội	7847
+64	root	aaaa	VôSongPK	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	7846
+65	root	thahntungn	NhưNgoc	 Nga My	 Nga My	120	Nữ	Không gia tộc	Không bang hội	7843
+66	root	sharkbinh4	ĐaoThần	 Thiếu Lâm	 Thiếu Lâm	120	Nam	Không gia tộc	Không bang hội	7841
+67	root	hiennguyen1	Hiennguyen	 Đường Môn	 Đường Môn	120	Nam	Không gia tộc	Không bang hội	7840
+68	root	magicblack	IKiraI	 Đường Môn	 Đường Môn	120	Nam	Không gia tộc	Không bang hội	7840
+69	root	zxczxc11	zxczxczxczxc	 Thiếu Lâm	 Thiếu Lâm	120	Nam	MotMinh	MộtMình	7840
+70	root	dangky	NgơNgơ	 Thiếu Lâm	 Thiếu Lâm	120	Nam	testgiatoc	cvxcvsdfsdfs	7840
+71	root	aaaaaa	zzzzzzzz	 Thiếu Lâm	 Côn Thiếu	120	Nam	Không gia tộc	Không bang hội	7840
+72	root	testvosong	CR99999	 Thiên Vương	 Thiên Vương	120	Nam	Không gia tộc	Không bang hội	7773
+73	root	volvol	kiếmthánh	 Minh Giáo	 Minh Giáo	123	Nam	Không gia tộc	Không bang hội	6060
+74	root	xuanvu1	NôTì	 Nga My	 Nga My	120	Nữ	Không gia tộc	Không bang hội	5924
+75	root	sbdss22	onlinerồinghe	 Thiên Vương	 Thiên Vương	120	Nam	kkkkkkkkkkkk	dfghfdhgf	2661
+76	root	vosongpk	KTThầnMa	Chưa	Chưa	120	Nam	Không gia tộc	Không bang hội	216
+77	root	testanthune	testtanthune	Chưa	Chưa	120	Nam	Không gia tộc	Không bang hội	60
+78	root	testbanghoi	testbanghoi	 Thiên Vương	 Thiên Vương	120	Nam	xcvxcvcx	testbanghoi	60
+79	root	sss	wersdfsdfsd	 Thiên Vương	 Thiên Vương	121	Nam	Không gia tộc	Không bang hội	60
+80	root	www	tuitestdulamne	Chưa	Chưa	120	Nam	Không gia tộc	Không bang hội	60
+81	root	kutruongcuulong	PắpKảizz	Chưa	Chưa	120	Nữ	Không gia tộc	Không bang hội	60
+82	root	ssssss	sssssss	 Cái Bang	 Chưởng Cái	120	Nam	Không gia tộc	Không bang hội	60
+83	root	congtuhopham	ChủLòGạch	 Thiên Nhẫn	 Thiên Nhẫn	120	Nam	Không gia tộc	Không bang hội	60

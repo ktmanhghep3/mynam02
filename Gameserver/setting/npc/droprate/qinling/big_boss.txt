@@ -1,0 +1,15 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	8	475200		Huyền Tinh 8
+		18	1	1	9	160000		Huyền Tinh 9
+		18	1	1	10	25000		Huyền Tinh 10
+		18	1	1333	1	2500		chân nguyên tu luyện đơn
+		18	1	1334	1	200		Thánh linh bảo hạp hồn
+		18	1	357	1	250000		Viên Dạ Minh Châu
+		18	1	370	1	3000		Vật liệu túi 20 ô
+		18	1	371	1	1600		Vật liệu túi 24 ô
+		22	1	81	1	80000		Vật liệu vũ khí BOSS-Hòa Thị Bích
+		18	1	372	1	500		Vật liệu mặt nạ Tần Thủy Hoàng
+		1	26	40	2	500		[Chân Vũ] Hoàng Điểu Truy Phong
+		1	26	41	2	500		[Chân Vũ] Hoàng Điểu Truy Phong
+		1	26	42	2	500		[Chân Vũ] Uyên Ương Hồ Điệp
+		1	26	43	2	500		[Chân Vũ] Uyên Ương Hồ Điệp

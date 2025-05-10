@@ -1,0 +1,34 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	4	434500		Huyền Tinh cấp 3
+		18	1	1	5	200000		Huyền Tinh cấp 4
+		18	1	1	6	100000		Huyền Tinh cấp 5
+		18	1	1	7	50000		Huyền Tinh cấp 6
+		18	1	1	8	30000		Huyền Tinh cấp 7
+		18	1	1	9	10000		Huyền Tinh cấp 8
+		2	1	468	7	3025		Côn tím cấp 7-Côn Cái (PvsP)
+		2	1	469	8	1725		Côn tím cấp 8-Côn Cái (PvsP)
+		2	1	478	7	3025		Thương tím cấp 7-Chiến Nhẫn (PvsP)
+		2	1	479	8	1725		Thương tím cấp 8-Chiến Nhẫn (PvsP)
+		2	1	488	7	3025		Bao tay tím cấp 7-Chưởng Cái (PvsP)
+		2	1	489	8	1725		Bao tay tím cấp 8-Chưởng Cái (PvsP)
+		2	1	498	7	3025		Đao tím cấp 7-Ma Nhẫn (PvsP)
+		2	1	499	8	1725		Đao tím cấp 8-Ma Nhẫn (PvsP)
+		2	1	828	7	1000		Côn cam cấp 7-Côn Cái (PvsP)
+		2	1	829	8	500		Côn cam cấp 8-Côn Cái (PvsP)
+		2	1	838	7	1000		Thương cam cấp 7-Chiến Nhẫn (PvsP)
+		2	1	839	8	500		Thương cam cấp 8-Chiến Nhẫn (PvsP)
+		2	1	848	7	1000		Bao tay cam cấp 7-Chưởng Cái (PvsP)
+		2	1	849	8	500		Bao tay cam cấp 8-Chưởng Cái (PvsP)
+		2	1	858	7	1000		Đao cam cấp 7-Ma Nhẫn (PvsP)
+		2	1	859	8	500		Đao cam cấp 8-Ma Nhẫn (PvsP)
+500000						150000		Bạc 50v
+		2	7	503	10	50		Bá Vương Ngoa (Kim)
+		2	7	504	10	50		Huyền Nữ Ngoa (Kim)
+		2	7	505	10	50		Bá Vương Ngoa (Mộc)
+		2	7	506	10	50		Huyền Nữ Ngoa (Mộc)
+		2	7	507	10	50		Bá Vương Ngoa (Thủy)
+		2	7	508	10	50		Huyền Nữ Ngoa (Thủy)
+		2	7	509	10	50		Bá Vương Ngoa (Hỏa)
+		2	7	510	10	50		Huyền Nữ Ngoa (Hỏa)
+		2	7	511	10	50		Bá Vương Ngoa (Thổ)
+		2	7	512	10	50		Huyền Nữ Ngoa (Thổ)

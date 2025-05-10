@@ -1,0 +1,9 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+100000						315000		b?c
+		18	1	3006	1	296250		Bí ?n Sát Th?n
+		18	1	3006	2	106250		Chi?n Tích Phù Vãn
+		18	1	3006	3	106250		Hi?p Ngh?a T?u
+		18	1	3006	4	106250		Th?n Binh Ph?
+		18	1	3112	1	5000		Vô C?c Tiêu Th?ch
+		18	1	3920	1	40000		Rýõng Phó B?n
+		18	1	3941	1	25000		M?nh Bí B?o (Chýa Giám Ð?nh)

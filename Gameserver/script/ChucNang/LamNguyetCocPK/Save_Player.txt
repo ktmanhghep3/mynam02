@@ -1,0 +1,3 @@
+Rank	Name	Bonus	KillNumber
+1	HắcNguyệt	100	0
+1	HắcNguyệt	100	0

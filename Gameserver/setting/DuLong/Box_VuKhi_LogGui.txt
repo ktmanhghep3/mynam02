@@ -1,0 +1,283 @@
+Ten Vat Pham	So Luong	Time	Nguoi Choi
+Thương Phong Phệ Ảnh Thủ	1	2025-04-21 09:55:33	Viper99
+Thương Phong Tuyệt Thổ Đao	1	2025-04-21 09:55:33	Viper99
+Thương Phong Tuyệt Thổ Thủ	1	2025-04-21 09:55:33	Viper99
+Thương Phong Tuyệt Thủy Thủ	1	2025-04-21 09:55:33	Viper99
+Thương Phong Khu Hổ Chùy	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong U Minh Đao	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tứ Hải Chùy	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Hỏa Đao	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Băng Tước Thủ	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Hỏa Cung Tiễn	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Kim Đao	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Phệ Ảnh Thủ	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Canh Phong Đao	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Trấn Nhạc Kiếm	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Kim Kiếm	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Cuồng Lan	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Mộc Kiếm	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Kim Thương	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Mạn Tú Kiếm	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Kim Bổng	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Du Long Thủ	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Thổ Đao	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Mộc Đao	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Tuyệt Hỏa Đao	1	2025-04-21 10:47:52	TeeLàTrà
+Thương Phong Lược Địa Bổng	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Tuyệt Thủy Đao	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Tuyệt Thổ Kiếm	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Quy Thiền Đao	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Tuyệt Kim Thương	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Cuồng Lan	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Cực Lôi Kiếm	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Tuyệt Hỏa Thương	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Tuyệt Thổ Kiếm	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Khổng Tước Vũ	1	2025-04-21 10:48:06	TeeLàTrà
+Thương Phong Tuyệt Thổ Phi Đao	1	2025-04-21 15:29:07	Viper99
+Thương Phong Mạn Tú Kiếm	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Thổ Thủ	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Kim Kiếm	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Kim Chùy	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Thổ Kiếm	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Thủy Thương	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Thổ Đao	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Thổ Cung Tiễn	2	2025-04-21 15:29:29	Viper99
+Thương Phong Vi Đà Côn	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Thủy Phi Đao	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Thổ Chùy	1	2025-04-21 15:29:29	Viper99
+Thương Phong Du Long Thủ	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Kim Đao	1	2025-04-21 15:29:29	Viper99
+Thương Phong Vi Đà Côn	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Thổ Chùy	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Mộc Đao	1	2025-04-21 15:29:29	Viper99
+Thương Phong Vi Đà Côn	1	2025-04-21 15:29:29	Viper99
+Thương Phong Quy Thiền Đao	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Kim Thương	1	2025-04-21 15:29:29	Viper99
+Thương Phong Tuyệt Kim Bổng	1	2025-04-21 15:29:43	Viper99
+Thương Phong Tuyệt Thổ Phi Đao	1	2025-04-21 15:29:43	Viper99
+Thương Phong Tứ Hải Chùy	1	2025-04-21 15:29:43	Viper99
+Thương Phong Tuyệt Hỏa Thương	1	2025-04-21 15:29:43	Viper99
+Thương Phong Tuyệt Thổ Thủ	1	2025-04-21 15:29:43	Viper99
+Thương Phong Tuyệt Thủy Phi Đao	1	2025-04-21 15:29:43	Viper99
+Thương Phong Bát Hoang Kiếm	1	2025-04-21 15:29:43	Viper99
+Thương Phong Tuyệt Thổ Thương	1	2025-04-21 15:29:43	Viper99
+Thương Phong Tuyệt Hỏa Bổng	1	2025-04-21 15:29:43	Viper99
+Thương Phong Canh Phong Đao	1	2025-04-21 15:29:43	Viper99
+Thương Phong Tuyệt Thổ Thủ	1	2025-04-21 15:29:43	Viper99
+Thương Phong Thiên Long Đao	1	2025-04-22 08:52:27	MiuuMiuu
+Thương Phong Tuyệt Thổ Đao	1	2025-04-22 08:52:27	MiuuMiuu
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-22 08:52:27	MiuuMiuu
+Thương Phong Tuyệt Thổ Cung Tiễn	1	2025-04-22 08:52:27	MiuuMiuu
+Thương Phong Tuyệt Hỏa Đao	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Lược Địa Bổng	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Tuyệt Mộc Thương	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Bát Hoang Kiếm	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Tuyệt Thổ Kiếm	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Tuyệt Kim Cung Tiễn	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Băng Tước Thủ	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Liêu Nguyên Đao	1	2025-04-22 10:35:56	MiuuMiuu
+Thương Phong Bát Hoang Kiếm	2	2025-04-22 10:50:30	Killer
+Thương Phong Trấn Nhạc Kiếm	1	2025-04-22 10:50:30	Killer
+Thương Phong Cực Lôi Kiếm	2	2025-04-22 10:50:30	Killer
+Thương Phong Tuyệt Thủy Kiếm	1	2025-04-22 10:50:30	Killer
+Thương Phong Tuyệt Mộc Kiếm	2	2025-04-22 10:50:30	Killer
+Thương Phong Du Long Thủ	1	2025-04-22 10:50:30	Killer
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-23 15:57:05	MiuuMiuu
+Thương Phong Tuyệt Mộc Thương	1	2025-04-23 15:57:05	MiuuMiuu
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-23 15:57:05	MiuuMiuu
+Thương Phong Quy Thiền Đao	1	2025-04-23 15:57:05	MiuuMiuu
+Thương Phong Lược Địa Bổng	1	2025-04-23 15:57:05	MiuuMiuu
+Thương Phong Tuyệt Mộc Thương	1	2025-04-23 15:57:05	MiuuMiuu
+Thanh Hạ Trấn Nhạc Kiếm	1	2025-04-23 19:09:59	Forever
+Thanh Hạ Lược Địa Bổng	1	2025-04-23 19:09:59	Forever
+Thương Phong Tuyệt Thủy Kiếm	1	2025-04-23 19:09:59	Forever
+Thanh Hạ Liêu Nguyên Đao	1	2025-04-23 19:09:59	Forever
+Thanh Hạ Giang Hải Thương	1	2025-04-23 19:09:59	Forever
+Thanh Hạ Du Long Thủ	1	2025-04-23 19:09:59	Forever
+Thương Phong Tuyệt Mộc Thủ	1	2025-04-23 19:09:59	Forever
+Thương Phong Canh Phong Đao	1	2025-04-24 17:58:22	Viper99
+Thương Phong Liêu Nguyên Đao	1	2025-04-25 10:11:40	MiuuMiuu
+Thương Phong Quy Thiền Đao	1	2025-04-25 10:11:40	MiuuMiuu
+Thương Phong Tuyệt Thủy Thủ	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Trạm Kim Thương	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Tuyệt Thủy Cung Tiễn	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Tuyệt Mộc Bổng	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Du Long Thủ	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Tuyệt Hỏa Phi Đao	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Tuyệt Thổ Chùy	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Tuyệt Kim Bổng	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Tuyệt Thổ Phi Đao	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Canh Phong Đao	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Liêu Nguyên Đao	1	2025-04-26 16:32:13	PewwPeww
+Thương Phong Bát Hoang Kiếm	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Hỏa Kiếm	2	2025-04-28 16:50:51	PewwPeww
+Thương Phong Thiên Long Đao	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Mộc Đao	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Kim Đao	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Canh Phong Đao	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Thổ Kiếm	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Du Long Thủ	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Canh Phong Đao	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Khu Hổ Chùy	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Liêu Nguyên Đao	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Thủy Thương	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Kim Thủ	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Mộc Kiếm	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Trấn Nhạc Kiếm	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Mộc Thủ	1	2025-04-28 16:50:51	PewwPeww
+Thương Phong Tuyệt Thổ Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Thủy Thương	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Thổ Thương	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Canh Phong Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Giang Hải Thương	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Kim Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Kim Phi Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Cực Lôi Kiếm	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Quy Thiền Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Thủy Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Phệ Ảnh Thủ	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Kim Thương	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Vi Đà Côn	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Du Long Thủ	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Hỏa Phi Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Mộc Bổng	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Thủy Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Thổ Chùy	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Liêu Nguyên Đao	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-28 16:51:15	PewwPeww
+Thương Phong Tuyệt Mộc Chùy	1	2025-04-28 16:51:31	PewwPeww
+Thương Phong Quy Thiền Đao	1	2025-04-28 16:51:31	PewwPeww
+Thương Phong Tuyệt Mộc Thương	1	2025-04-28 16:51:31	PewwPeww
+Thương Phong Tuyệt Hỏa Đao	1	2025-04-28 16:51:31	PewwPeww
+Thương Phong Nguyệt Hoa Thủ	1	2025-04-28 16:51:31	PewwPeww
+Thương Phong Tuyệt Mộc Đao	1	2025-04-28 16:51:31	PewwPeww
+Thương Phong Liêu Nguyên Đao	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Mộc Thủ	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Kim Phi Đao	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Thổ Bổng	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Hỏa Thương	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Thủy Kiếm	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Bát Hoang Kiếm	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Hỏa Thương	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Kim Chùy	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Phệ Ảnh Thủ	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Trạm Kim Thương	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Thủy Thủ	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Cực Lôi Kiếm	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Thổ Chùy	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Thủy Thương	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Cực Lôi Kiếm	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Thủy Đao	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Mộc Chùy	1	2025-04-28 16:52:34	PewwPeww
+Thương Phong Tuyệt Mộc Kiếm	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Mộc Thương	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Thủy Đao	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Liêu Nguyên Đao	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Thủy Kiếm	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Mộc Đao	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Kim Phi Đao	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Du Long Thủ	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Liêu Nguyên Đao	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Hỏa Phi Đao	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Thủy Cung Tiễn	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Kim Đao	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Mộc Chùy	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Lược Địa Bổng	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Kim Cung Tiễn	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Mộc Thương	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Thủy Thủ	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Quy Thiền Đao	1	2025-04-28 16:52:58	PewwPeww
+Thương Phong Tuyệt Thổ Thương	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Hỏa Đao	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Kim Cung Tiễn	2	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tứ Hải Chùy	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Kim Cung Tiễn	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Kim Thủ	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Hỏa Bổng	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Lược Địa Bổng	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Thổ Đao	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Kim Cung Tiễn	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Hỏa Chùy	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Mộc Chùy	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Mộc Kiếm	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Thổ Đao	2	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Thổ Chùy	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Liêu Nguyên Đao	1	2025-04-28 16:54:24	PewwPeww
+Thương Phong Tuyệt Hỏa Cung Tiễn	1	2025-04-28 16:54:25	PewwPeww
+Thương Phong Canh Phong Đao	1	2025-04-28 16:54:25	PewwPeww
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Thủy Đao	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Thổ Phi Đao	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Thổ Kiếm	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Thiên Long Đao	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Hỏa Cung Tiễn	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Thổ Phi Đao	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Bát Hoang Kiếm	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Mộc Thương	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Mộc Đao	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Hỏa Đao	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Thổ Cung Tiễn	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tứ Hải Chùy	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Băng Tước Thủ	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Hỏa Cung Tiễn	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Vi Đà Côn	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Thổ Chùy	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Thủy Đao	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Mộc Đao	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-28 16:54:40	PewwPeww
+Thương Phong Tuyệt Thủy Thủ	1	2025-04-28 16:54:46	PewwPeww
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-28 16:54:46	PewwPeww
+Thương Phong Liêu Nguyên Đao	1	2025-04-28 16:54:46	PewwPeww
+Thương Phong Tuyệt Thổ Đao	1	2025-04-28 16:54:46	PewwPeww
+Thương Phong Tuyệt Thủy Kiếm	1	2025-04-28 16:54:46	PewwPeww
+Thương Phong Bát Hoang Kiếm	1	2025-04-28 16:54:46	PewwPeww
+Thương Phong Tuyệt Kim Thủ	1	2025-04-28 16:54:46	PewwPeww
+Thương Phong Tuyệt Hỏa Kiếm	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Hỏa Bổng	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Thổ Cung Tiễn	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Mộc Kiếm	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Băng Tước Thủ	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Thiên Long Đao	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Thổ Bổng	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Hỏa Cung Tiễn	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Thổ Thương	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Thủy Đao	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Thủy Cung Tiễn	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Mộc Kiếm	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Thủy Phi Đao	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Kim Đao	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Kim Thương	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Mộc Thủ	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Giang Hải Thương	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Thủy Cung Tiễn	1	2025-04-28 16:56:21	PewwPeww
+Thương Phong Tuyệt Kim Thương	1	2025-04-28 16:56:36	PewwPeww
+Thương Phong Tuyệt Mộc Đao	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Quy Thiền Đao	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Mộc Thủ	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Kim Cung Tiễn	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong U Minh Đao	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Thổ Thủ	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Thổ Thủ	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Mộc Thủ	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Thổ Kiếm	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Mộc Thương	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Hỏa Đao	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Thủy Cung Tiễn	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Mộc Thủ	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tứ Hải Chùy	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Trấn Nhạc Kiếm	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Hỏa Thủ	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Mạn Tú Kiếm	1	2025-04-28 16:56:46	PewwPeww
+Thương Phong Tuyệt Mộc Thương	1	2025-04-28 16:56:46	PewwPeww

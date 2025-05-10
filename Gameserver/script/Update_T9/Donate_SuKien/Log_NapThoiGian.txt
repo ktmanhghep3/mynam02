@@ -1,0 +1,5 @@
+TaiKhoan	TenNhanVat	ThoiGianCongThem	ThoiGianNhan	IP		
+minhtungkg	XiaoXiao	140	2024-03-05 10:06:50	192.168.2.14:31174
+satthan2	Krulll	700	2024-04-01 10:29:41	192.168.2.14:4040
+satthan1	Skulll	700	2024-04-01 10:29:49	192.168.2.14:63687
+satthan1	Skulll	140	2024-04-01 10:31:23	192.168.2.14:63687

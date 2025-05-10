@@ -1,0 +1,2 @@
+TaiKhoan	TenNhanVat	ThoiGianCongThem	ThoiGianNhan	IP		
+kiemthest2	AdminGame	2023-11-19 11:34:44	192.168.2.14:8397

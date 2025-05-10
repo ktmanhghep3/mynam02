@@ -1,0 +1,9 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+100000						315000		bạc
+		18	1	3006	1	296250		Bí Ẩn Sát Thần
+		18	1	3006	2	106250		Chiến Tích Phù Văn
+		18	1	3006	3	106250		Hiệp Nghĩa Tửu
+		18	1	3006	4	106250		Thần Binh Phổ
+		18	1	3112	1	5000		Vô Cực Tiêu Thạch
+		18	1	3920	1	40000		Rương Phó Bản
+		18	1	3941	1	25000		Mảnh Bí Bảo (Chưa Giám Định)

@@ -1,0 +1,11 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	5	346700		Huyền tinh 5
+		18	1	1	6	90000		Huyền tinh 6
+		18	1	1	7	30000		Huyền tinh 7
+		18	1	1	8	3000		Huyền tinh 8
+		18	1	1	9	300		Huyền tinh 9
+		18	1	357	1	462400		Tần lăng dạ minh châu
+		18	1	370	1	6000		miếng Vải phượng vũ
+		18	1	371	1	600		Khăn tay có chữ
+		18	1	1333	1	500		Chân nguyên tu luyện đơn
+		18	1	1334	1	500		Thánh linh bảo hạp hồn

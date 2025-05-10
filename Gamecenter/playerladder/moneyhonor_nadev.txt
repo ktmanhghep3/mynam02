@@ -1,0 +1,32 @@
+Rank	GateWay	Account	PlayerName	Faction	Route	Level	Sex	KinName	TongName	MoneyHonor	2025-05-09 19:00:01
+1	nadev	ductoanlk2	Viper97	 Côn Lôn	 Côn Lôn	180	Nữ	Teechưavợ	TinhAnhEm	2039044
+2	nadev	satthan1	Skulll	 Võ Đang	 Võ Đang	200	Nam	Brothers	TinhAnhEm	1912561
+3	nadev	eaesed	Forever	 Võ Đang	 Võ Đang	192	Nam	AExHNK	TinhAnhEm	1896890
+4	nadev	tuyenphan123	tuyenbesclean	 Thiếu Lâm	 Thiếu Lâm	180	Nam	GapMapDiz	TinhAnhEm	1894408
+5	nadev	ductoanlk1	Viper99	 Võ Đang	 Võ Đang	180	Nam	GapMapDiz	TinhAnhEm	1893284
+6	nadev	lingnga	ShenNana	 Võ Đang	 Võ Đang	200	Nữ	JAVCLUB	TinhAnhEm	1893160
+7	nadev	sonlhedura	Killer	 Thúy Yên	 Thúy Yên	180	Nam	GapMapDiz	TinhAnhEm	1866499
+8	nadev	minhtrong3	CaveChua	 Đường Môn	 Đường Môn	180	Nữ	GapMapDiz	TinhAnhEm	1788038
+9	nadev	tvchientv	HoaNguyet	 Đường Môn	 Đường Môn	180	Nữ	ThienMa	Không bang hội	1787189
+10	nadev	kiemthest2	AdminGame	 Thiên Vương	 Thiên Vương	192	Nam	Peaceful	HuynhĐệ	1754281
+11	nadev	minhtrong90	GauMapDiz	 Võ Đang	 Võ Đang	200	Nam	GapMapDiz	TinhAnhEm	1747580
+12	nadev	keomutdo	TeeLàTrà	 Võ Đang	 Võ Đang	183	Nam	Teechưavợ	TinhAnhEm	1738649
+13	nadev	sieuvirus	xXxMOZAxXx	 Minh Giáo	 Minh Giáo	183	Nam	GapMapDiz	TinhAnhEm	1709565
+14	nadev	minhtrong2	MapDiz	 Võ Đang	 Võ Đang	184	Nữ	GapMapDiz	TinhAnhEm	1693369
+15	nadev	keomutdo1	Verdamm	 Thiếu Lâm	 Thiếu Lâm	180	Nữ	Teechưavợ	TinhAnhEm	1630167
+16	nadev	dieptumi	MiuuMiuu	 Võ Đang	 Võ Đang	180	Nam	Không gia tộc	Không bang hội	1603642
+17	nadev	keomutdo2	LiễuNhưYên	 Thiếu Lâm	 Thiếu Lâm	180	Nữ	Teechưavợ	TinhAnhEm	1597767
+18	nadev	minhtrong1	CaHeoMap	 Võ Đang	 Võ Đang	180	Nam	GapMapDiz	TinhAnhEm	1544610
+19	nadev	ngotuankaka	OneGame	 Võ Đang	 Võ Đang	195	Nam	GapMapDiz	TinhAnhEm	1456190
+20	nadev	hnk1	TiểuAnh	 Thúy Yên	 Thúy Yên	150	Nữ	Không gia tộc	Không bang hội	1322141
+21	nadev	dangquanxxx	niceType	 Thiếu Lâm	 Thiếu Lâm	180	Nam	GapMapDiz	TinhAnhEm	1316342
+22	nadev	tvchientv3	HoaThan	 Côn Lôn	 Côn Lôn	180	Nữ	Không gia tộc	Không bang hội	990420
+23	nadev	quocvuong	VipPro	 Ngũ Độc	 Ngũ Độc	180	Nam	Không gia tộc	Không bang hội	985441
+24	nadev	huykhang	BácBaPhi	 Cái Bang	 Cái Bang	180	Nam	Không gia tộc	Không bang hội	969360
+25	nadev	tvchientv1	ChienPro	 Côn Lôn	 Côn Lôn	180	Nam	Không gia tộc	Không bang hội	879041
+26	nadev	ngudocdao	ConChoBeo	 Võ Đang	 Võ Đang	180	Nam	Không gia tộc	Không bang hội	776239
+27	nadev	dieptumi12	PewwPeww	Đoàn Thị	Đoàn Thị	180	Nữ	Không gia tộc	Không bang hội	667559
+28	nadev	dieptumi11	MewwMeww	 Võ Đang	 Võ Đang	180	Nữ	Không gia tộc	Không bang hội	667513
+29	nadev	hoangyenhuy87	HoangYenHuy	 Nga My	 Nga My	180	Nam	Không gia tộc	Không bang hội	349297
+30	nadev	keomutdo6	AccBVD	 Thiên Nhẫn	 Thiên Nhẫn	180	Nam	Không gia tộc	Không bang hội	258248
+31	nadev	tvchientv2	HoaThienCot	Chưa	Chưa	180	Nữ	Không gia tộc	Không bang hội	36000

@@ -1,0 +1,46 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		1	13	63	1	10000		Mặt Nạ Hàng Long Phục Hổ Quán
+		1	13	67	10	10000		Mặt Nạ Quan Lâm Vương Miện
+		18	1	1	6	250000		Huyền Tinh 6
+		18	1	1	7	223000		Huyền Tinh 7
+		18	1	1	8	100000		Huyền Tinh 8
+		18	1	1	9	54000		Huyền Tinh 9
+		18	1	1	10	11000		Huyền Tinh 10
+		18	1	1	11	6000		Huyền Tinh 11
+		18	1	1	12	1000		Huyền Tinh 12
+		18	1	211	1	5000		Hoàng Kim Khánh Hạ Lệnh
+		1	17	11	9	2000		Trục Nhật Chí Tôn Truyền Thuyết
+		1	17	11	10	2000		Trục Nhật Vô Song Vương Giả
+		1	17	13	9	2000		Lăng Thiên Chí Tôn Truyền Thuyết
+		1	17	13	10	2000		Lăng Thiên Vô Song Vương Giả
+		1	17	12	9	1000		Trục Nhật Chí Tôn Truyền Thuyết
+		1	17	12	10	1000		Trục Nhật Vô Song Vương Giả
+		1	17	14	9	1000		Lăng Thiên Chí Tôn Truyền Thuyết
+		1	17	14	10	1000		Lăng Thiên Vô Song Vương Giả
+		1	12	50	4	5000		Lạc Đà do
+		1	12	52	4	5000		Lạc Đà Xanh Dương
+		1	12	54	4	5000		Lạc Đà Xanh Nước Biển
+		1	12	55	4	1000		Tuyệt Thế Tuyết Vũ
+		1	12	61	4	3000		Hãn Huyết Thần Mã
+		2	1	1545	10	13500		Đao(Kim Ngoại Công)
+		2	1	1533	10	13500		Bổng(Kim Ngoại Công)
+		2	1	1505	10	13500		Thương(Kim Ngoại Công)
+		2	1	1512	10	13500		Chùy(Kim Ngoại Công)
+		2	1	1576	10	13500		Tụ Tiễn(Mộc Ngoại Công)
+		2	1	1570	10	13500		Phi Đao(Mộc Ngoại Công)
+		2	1	1524	10	13500		Triển Thủ(Mộc Nội Công)+
+		2	1	1546	10	13500		Đao(Mộc Ngoại Công)
+		2	1	1564	10	13500		Kiếm(Mộc Nội Công)
+		2	1	1513	10	13500		Chùy(Mộc Ngoại Công)
+		2	1	1526	10	13500		Triển Thủ(Thủy Nội Công)
+		2	1	1560	10	15500		Kiếm(Thủy Nội Công)
+		2	1	1547	10	13500		Kiếm(Thủy Nội Công)
+		2	1	1525	10	13500		Kiếm(Thủy Nội Công)
+		2	1	1527	10	13500		Triển Thủ(Hỏa Nội Công)
+		2	1	1534	10	13500		Bổng(Hỏa Ngoại Công)
+		2	1	1506	10	13500		Đao(Hỏa Nội Công)
+		2	1	1548	10	13500		Thương(Hỏa Ngoại Công)
+		2	1	1549	10	13500		Kiếm(Thổ Nội Công)
+		2	1	1563	10	13500		Đao(Thổ Ngoại Công) 
+		2	1	1558	10	13500		Kiếm(Thổ Ngoại Công)
+		2	1	1562	10	13500		Kiếm(Thổ Nội Công)

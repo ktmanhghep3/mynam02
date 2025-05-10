@@ -1,0 +1,1 @@
+TaiKhoan	TenNhanVat	Ten_MocTichLuy	ThoiGianNhan	IP			

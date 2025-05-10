@@ -1,0 +1,9 @@
+TaiKhoan	TenNhanVat	ThoiGianNhan	IP	GoiHoTro		
+satthanpk1	HuyenPhong	2024-04-21 21:56:29	192.168.2.14:19434	1
+satthanpk1	HuyenPhong	2024-04-21 21:56:40	192.168.2.14:19434	Ngôi Sao May Mắn
+satthanpk1	HuyenPhong	2024-04-21 21:56:43	192.168.2.14:19434	2
+satthanpk1	HuyenPhong	2024-04-21 21:56:46	192.168.2.14:19434	3
+satthanpk1	HuyenPhong	2024-04-21 21:56:48	192.168.2.14:19434	4
+satthanpk1	HuyenPhong	2024-04-21 21:56:50	192.168.2.14:19434	5
+satthanpk1	HuyenPhong	2024-04-21 21:56:55	192.168.2.14:19434	1
+satthanpk1	HuyenPhong	2024-04-21 22:04:23	192.168.2.14:19434	Ngôi Sao May Mắn

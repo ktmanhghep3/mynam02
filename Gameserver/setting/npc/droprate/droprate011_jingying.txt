@@ -1,0 +1,35 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+	900					250000		Bạc khóa
+		1	1	1	10	3200		Triền thủ cấp 10
+		1	1	2	10	3200		Kiếm cấp 10
+		1	1	3	10	3200		Đao cấp 10
+		1	1	4	10	3200		Côn cấp 10
+		1	1	5	10	3200		Thương cấp 10
+		1	1	6	10	3200		Chùy cấp 10
+		1	2	2	10	1600		Phi đao cấp 10
+		1	2	3	10	1600		Nỏ tiễn cấp 10
+		1	3	2	10	10000		Nam giáp y cấp 10
+		1	3	3	10	10000		Nam bì y cấp 10
+		1	3	4	10	10000		Nam Bố Y cấp 10
+		1	3	6	10	5000		Nữ giáp y cấp 10
+		1	3	7	10	5000		Nữ bì y cấp 10
+		1	3	8	10	5000		Nữ bố y cấp 10
+		1	4	1	10	30000		Nhẫn cấp 10
+		1	5	1	10	30000		Hạng liên cấp 10
+		1	7	1	10	30000		Giày nam cấp 10
+		1	7	2	10	15000		Giày nữ cấp 10
+		1	9	2	10	10000		Giáp mão nam cấp 10
+		1	9	3	10	10000		Bì mão nam cấp 10
+		1	9	4	10	10000		Bố mão nam cấp 10
+		1	9	6	10	5000		Giáp mão nữ cấp 10
+		1	9	7	10	5000		Bì mão nữ cấp 10
+		1	9	8	10	5000		Bố mão nữ cấp 10
+		1	10	1	10	30000		Hộ uyển cấp 10
+		1	10	2	10	15000		Thủ trạc cấp 10
+		1	11	1	10	20000		Ngọc bội cấp 10
+		1	11	2	10	10000		Hương nang cấp 10
+		18	1	114	1	297600		Huyền Tinh cấp 1
+		18	1	114	2	50000		Huyền Tinh cấp 2
+		18	1	114	3	10000		Huyền Tinh cấp 3
+		18	1	80	1	40000		Túi phúc
+		18	1	543	1	1000		Sách kinh nghiệm đồng hành

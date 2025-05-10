@@ -1,0 +1,99 @@
+local tbItem = Item:GetClass("DietTheDiemThienTram_Add1Level");
+
+tbItem.Skill_DietTheDiemThienTram = 1741;						--Skill ID
+tbItem.Level_ThanKiemNguLoi = 10;								--Cấp Skill
+tbItem.GioiHan_Level = 40;										--Giới Hạn
+
+tbItem.ThoiGian_delay = 60;										--Thời gian học(s)
+tbItem.Level_Add = 1;
+tbItem.Item_Delete = {18,1,4019,1};								--ID Item
+
+function tbItem:OnUse()
+local nLevel = me.GetSkillLevel(self.Skill_DietTheDiemThienTram);
+local szMsg = 
+"<color=pink>Thông tin Diệt Thế Diễm Thiên Trảm:\n"..
+"<color=yellow>- Diệt Thế Diễm Thiên Trảm: <color=cyan>"..nLevel.."<color>/"..self.GioiHan_Level..".<color>\n"
+
+	local tbOpt = {
+			
+			{"<bclr=0,0,200><color=white>Lĩnh ngộ thêm [+"..self.Level_Add.."] Đẳng Cấp <color>", self.Delay, self},
+			
+			{"Ta cần suy nghĩ thêm!"},
+	};
+	Dialog:Say(szMsg, tbOpt);
+end
+
+function tbItem:Delay()
+local nLevel = me.GetSkillLevel(self.Skill_DietTheDiemThienTram);
+	if nLevel >= self.GioiHan_Level then
+		Dialog:SendBlackBoardMsg(me, string.format("<color=yellow>Diệt Thế Diễm Thiên Trảm đã đạt: <color=cyan>+".. nLevel .."/"..self.GioiHan_Level.." <color>, không thể sử dụng nữa!<color>"));
+		return 0;
+	end
+
+	local Item_Non = me.GetEquip(Item.EQUIPPOS_HEAD); --Nón
+	local Item_Ao = me.GetEquip(Item.EQUIPPOS_BODY);	--Áo
+	local Item_YeuDai = me.GetEquip(Item.EQUIPPOS_BELT);	--Yêu đái
+	local Item_VuKhi = me.GetEquip(Item.EQUIPPOS_WEAPON);	--Vũ khí
+	local Item_Giay = me.GetEquip(Item.EQUIPPOS_FOOT);	--Giày
+	local Item_Tay = me.GetEquip(Item.EQUIPPOS_CUFF);	--Tay
+	local Item_Phu = me.GetEquip(Item.EQUIPPOS_AMULET);	--Phù
+	local Item_Nhan = me.GetEquip(Item.EQUIPPOS_RING);	--Nhẫn
+	local Item_Lien = me.GetEquip(Item.EQUIPPOS_NECKLACE);	--Liên
+	local Item_Boi = me.GetEquip(Item.EQUIPPOS_PENDANT);	--Bội	
+	local Item_Ngua = me.GetEquip(Item.EQUIPPOS_HORSE);	--Ngựa
+	local Item_MatNa = me.GetEquip(Item.EQUIPPOS_MASK);	--Mặt Nạ
+	local Item_BiKiep = me.GetEquip(Item.EQUIPPOS_BOOK);	--Bí kíp
+	local Item_Tran = me.GetEquip(Item.EQUIPPOS_ZHEN);	--Trận
+	local Item_An = me.GetEquip(Item.EQUIPPOS_SIGNET);	--Ấn
+	local Item_FF = me.GetEquip(Item.EQUIPPOS_MANTLE);	--Phi Phong
+	local Item_QuanAn = me.GetEquip(Item.EQUIPPOS_CHOP);	--Quan ấn
+	
+	local Cap_HienTai = me.GetSkillLevel(self.Skill_DietTheDiemThienTram);
+
+
+	if Cap_HienTai < 1 then
+		Dialog:SendBlackBoardMsg(me, string.format("<color=yellow>Ngươi chưa kích hoạt Kỹ năng này, không thể dùng Nâng cấp!<color>"));
+		return 0;
+	end
+
+	if (Item_Non == nil) and (Item_Ao == nil) and (Item_YeuDai == nil) and (Item_VuKhi == nil) and (Item_Giay == nil) and (Item_Tay == nil) and (Item_Phu == nil) and (Item_Nhan == nil) and (Item_Lien == nil) and (Item_Boi == nil) and (Item_Ngua == nil) and (Item_MatNa == nil) and (Item_BiKiep == nil) and (Item_Tran == nil) and (Item_An == nil) and (Item_FF == nil) and (Item_QuanAn == nil) then
+	--phần thưởng--
+
+local tbBreakEvent =
+{
+Player.ProcessBreakEvent.emEVENT_MOVE,
+Player.ProcessBreakEvent.emEVENT_ATTACK,
+Player.ProcessBreakEvent.emEVENT_SIT,
+Player.ProcessBreakEvent.emEVENT_RIDE,
+Player.ProcessBreakEvent.emEVENT_USEITEM,
+Player.ProcessBreakEvent.emEVENT_ARRANGEITEM,
+Player.ProcessBreakEvent.emEVENT_DROPITEM,
+Player.ProcessBreakEvent.emEVENT_CHANGEEQUIP,
+Player.ProcessBreakEvent.emEVENT_SENDMAIL,
+Player.ProcessBreakEvent.emEVENT_TRADE,
+Player.ProcessBreakEvent.emEVENT_CHANGEFIGHTSTATE,
+Player.ProcessBreakEvent.emEVENT_ATTACKED,
+Player.ProcessBreakEvent.emEVENT_DEATH,
+Player.ProcessBreakEvent.emEVENT_LOGOUT,
+Player.ProcessBreakEvent.emEVENT_REVIVE,
+Player.ProcessBreakEvent.emEVENT_CLIENTCOMMAND,
+}
+GeneralProcess:StartProcess("<bclr=0,0,200><color=white>Đang lĩnh ngộ...", self.ThoiGian_delay * Env.GAME_FPS, {self.kichhoat, self}, nil, tbBreakEvent);
+	else
+		Dialog:Say("<bclr=0,0,200><color=white>Các loại Trang bị sau phải lấy ra khỏi người mới Lĩnh ngộ được Kỹ Năng Diệt Thế Diễm Thiên Trảm: \n-Nón.\n-Áo.\n-Lưng.\n-Vũ khí.\n-Giày.\n-Tay.\n-Phù.\n-Nhẫn.\n-Liên.\n-Bội.\n-Ngựa.\n-Mặt Nạ.\n-Bí Kiếp.\n-Trận (Tuyệt Kỹ).\n-Ấn.\n-Phi Phong.\n-Quan Ấn.<color>")
+		return 0;
+	end
+
+end
+
+function tbItem:kichhoat()
+local nLevel = me.GetSkillLevel(self.Skill_DietTheDiemThienTram);
+me.AddFightSkill(self.Skill_DietTheDiemThienTram,nLevel + self.Level_Add);
+
+Task:DelItem(me, self.Item_Delete, 1);
+
+local szMsg = "<color=yellow>Người chơi: ["..me.szName.."] đã Lĩnh ngộ Thêm [+".. self.Level_Add .." đẳng cấp] <color=green>(Diệt Thế Diễm Thiên Trảm)<color> thành công!<color>";
+me.Msg("Lĩnh ngộ Thêm [+".. self.Level_Add .." đẳng cấp] <color=green>(Diệt Thế Diễm Thiên Trảm)<color> thành công!")
+KDialog.NewsMsg(0, Env.NEWSMSG_COUNT, szMsg);
+KDialog.MsgToGlobal(szMsg);
+end

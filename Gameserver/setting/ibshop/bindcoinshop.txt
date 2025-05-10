@@ -1,0 +1,14 @@
+ID vật phẩm	Miêu tả vật phẩm
+37	Bạch Câu Hoàn
+38	Vô Hạn Truyền Tống Phù (1 tuần)
+39	Vô Hạn Truyền Tống Phù (1 tháng)
+40	Vô Hạn Hồi Thành Phù (1 tuần)
+41	Vô Hạn Hồi Thành Phù (1 tháng)
+42	Càn Khôn Phù (10)
+43	Kim Tê (cấp 3)
+44	Rương Linh Chi Tục Mệnh Hoàn
+45	Rương Tuyết Sam Phản Khí Hoàn
+46	Rương Diêu Trì Đại Hoàn Đơn
+47	Ốc biển truyền thanh (tiểu)
+48	Ốc biển truyền thanh (trung)
+49	Ốc biển truyền thanh (đại)

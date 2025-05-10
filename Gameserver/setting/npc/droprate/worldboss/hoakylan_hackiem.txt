@@ -1,0 +1,11 @@
+Money	BindMoney	Genre	Detail	Particular	Level	RandRate	LuckyRate	Name
+		18	1	1	9	475600		Huyền Tinh 6
+		22	1	81	1	160000		Huyền Tinh 7
+		18	1	1	10	25000		Huyền Tinh 8
+		18	1	1	11	2500		Huyền Tinh 9
+		18	1	1	12	200		Huyền Tinh 9
+		18	1	1190	2	251600		Viên Dạ Minh Châu
+		18	1	370	1	3000		Vật liệu túi 20 ô
+		18	1	371	1	1600		Vật liệu túi 24 ô
+		22	1	81	1	80000		Vật liệu vũ khí BOSS-Hòa Thị Bích
+		18	1	372	1	500		Vật liệu mặt nạ Tần Thủy Hoàng

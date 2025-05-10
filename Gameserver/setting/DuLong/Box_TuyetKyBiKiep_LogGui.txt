@@ -1,0 +1,229 @@
+Ten Vat Pham	So Luong	Time	Nguoi Choi
+Dương Gia Quyết Cấp 30	1	2025-04-21 09:54:53	Viper99
+Trấn Lôi Liệt Quyết Cấp 30	1	2025-04-21 09:54:53	Viper99
+Như Lai Quyết Cấp 30	1	2025-04-21 09:54:53	Viper99
+Đường Gia Quyết Cấp 30	1	2025-04-21 09:54:53	Viper99
+Thánh Hỏa Minh Tâm Cấp 30	2	2025-04-21 09:54:53	Viper99
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 40	1	2025-04-21 09:55:00	Viper99
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 40	2	2025-04-21 09:55:00	Viper99
+Tuyệt Thế Trấn Phái Đoàn Thị Tầng 40	1	2025-04-21 09:55:00	Viper99
+Tuyệt Thế Trấn Phái Nga My Tầng 40	2	2025-04-21 09:55:00	Viper99
+Tuyệt Thế Trấn Phái Võ Đang Tầng 40	1	2025-04-21 09:55:00	Viper99
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 40	3	2025-04-21 09:55:00	Viper99
+Đoàn Gia Tâm Quyết Cấp 30	1	2025-04-21 10:53:38	TeeLàTrà
+Tuyệt Thế Trấn Phái Đoàn Thị Tầng 39	1	2025-04-21 10:53:38	TeeLàTrà
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 40	1	2025-04-21 10:54:40	TeeLàTrà
+Băng Tâm Quyết Cấp 30	1	2025-04-21 10:54:40	TeeLàTrà
+Thánh Hỏa Minh Tâm Cấp 30	1	2025-04-21 10:54:40	TeeLàTrà
+Như Lai Quyết Cấp 30	1	2025-04-21 10:54:40	TeeLàTrà
+Đường Gia Quyết Cấp 30	1	2025-04-21 10:54:40	TeeLàTrà
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 40	1	2025-04-21 10:54:40	TeeLàTrà
+Dương Gia Quyết Cấp 30	1	2025-04-21 10:54:40	TeeLàTrà
+Liệt Hỏa Tâm Pháp Cấp 27	1	2025-04-21 10:54:40	TeeLàTrà
+Cuồng Long Quyết Cấp 30	1	2025-04-21 10:54:40	TeeLàTrà
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 40	1	2025-04-21 10:54:40	TeeLàTrà
+Tuyệt Thế Trấn Phái Đường Môn Tầng 40	1	2025-04-21 10:54:40	TeeLàTrà
+Cửu Âm Thần Công Cấp 30	1	2025-04-21 10:54:40	TeeLàTrà
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 37	1	2025-04-21 10:54:40	TeeLàTrà
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 40	1	2025-04-21 10:54:40	TeeLàTrà
+Tuyệt Thế Trấn Phái Nga My Tầng 40	1	2025-04-21 10:54:40	TeeLàTrà
+Tuyệt Thế Trấn Phái Cái Bang Tầng 40	1	2025-04-21 10:54:40	TeeLàTrà
+Trấn Lôi Liệt Quyết Cấp 27	1	2025-04-21 10:54:58	TeeLàTrà
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 40	1	2025-04-21 10:54:58	TeeLàTrà
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 40	1	2025-04-21 15:25:31	Viper99
+Như Lai Quyết Cấp 30	1	2025-04-21 15:25:31	Viper99
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 29	1	2025-04-22 08:51:53	MiuuMiuu
+Tuyệt Thế Trấn Phái Nga My Tầng 21	1	2025-04-22 08:51:53	MiuuMiuu
+Dương Gia Quyết Cấp 9	1	2025-04-22 08:51:53	MiuuMiuu
+Liệt Hỏa Tâm Pháp Cấp 9	1	2025-04-22 08:51:53	MiuuMiuu
+Dương Gia Quyết Cấp 17	1	2025-04-22 08:51:53	MiuuMiuu
+Trấn Lôi Liệt Quyết Cấp 1	1	2025-04-22 08:51:53	MiuuMiuu
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 23	1	2025-04-22 08:51:53	MiuuMiuu
+Đoàn Gia Tâm Quyết Cấp 14	1	2025-04-22 08:51:53	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 2	1	2025-04-22 08:52:10	MiuuMiuu
+Như Lai Quyết Cấp 1	1	2025-04-22 08:52:10	MiuuMiuu
+Băng Tâm Quyết Cấp 13	1	2025-04-22 08:52:10	MiuuMiuu
+Cuồng Long Quyết Cấp 17	1	2025-04-22 08:52:10	MiuuMiuu
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 15	1	2025-04-22 08:52:10	MiuuMiuu
+Như Lai Quyết Cấp 13	1	2025-04-22 08:52:10	MiuuMiuu
+Đường Gia Quyết Cấp 13	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 11	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 6	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Đoàn Thị Tầng 27	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Cái Bang Tầng 10	1	2025-04-22 10:14:57	MiuuMiuu
+Cửu Âm Thần Công Cấp 8	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 17	1	2025-04-22 10:14:57	MiuuMiuu
+Đoàn Gia Tâm Quyết Cấp 17	1	2025-04-22 10:14:57	MiuuMiuu
+Dương Gia Quyết Cấp 19	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 25	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Đường Môn Tầng 30	1	2025-04-22 10:14:57	MiuuMiuu
+Tây Vực Bí Chú Cấp 15	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Cái Bang Tầng 14	1	2025-04-22 10:14:57	MiuuMiuu
+Dương Gia Quyết Cấp 14	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 17	1	2025-04-22 10:14:57	MiuuMiuu
+Tây Vực Bí Chú Cấp 9	1	2025-04-22 10:14:57	MiuuMiuu
+Tuyệt Thế Trấn Phái Đoàn Thị Tầng 21	1	2025-04-22 10:48:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Nga My Tầng 12	1	2025-04-22 10:48:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 13	1	2025-04-22 10:48:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Đoàn Thị Tầng 26	1	2025-04-22 10:48:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 16	1	2025-04-22 10:48:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 19	1	2025-04-22 10:48:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 35	2	2025-04-22 10:55:04	Killer
+Cuồng Long Quyết Cấp 25	1	2025-04-22 10:55:04	Killer
+Băng Tâm Quyết Cấp 30	1	2025-04-22 10:55:04	Killer
+Đoàn Gia Tâm Quyết Cấp 25	3	2025-04-22 10:55:04	Killer
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 30	1	2025-04-22 10:55:04	Killer
+Liệt Hỏa Tâm Pháp Cấp 25	1	2025-04-22 10:55:04	Killer
+Đoàn Gia Tâm Quyết Cấp 30	1	2025-04-22 10:55:04	Killer
+Tuyệt Thế Trấn Phái Cái Bang Tầng 38	1	2025-04-22 10:55:04	Killer
+Trấn Lôi Liệt Quyết Cấp 30	1	2025-04-22 10:55:04	Killer
+Dương Gia Quyết Cấp 30	2	2025-04-22 10:55:04	Killer
+Cửu Âm Thần Công Cấp 30	1	2025-04-22 10:55:04	Killer
+Dương Gia Quyết Cấp 25	1	2025-04-22 10:55:04	Killer
+Thánh Hỏa Minh Tâm Cấp 25	2	2025-04-22 10:55:05	Killer
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 30	1	2025-04-22 10:55:05	Killer
+Như Lai Quyết Cấp 25	1	2025-04-22 10:55:05	Killer
+Tuyệt Thế Trấn Phái Võ Đang Tầng 30	2	2025-04-22 10:55:11	Killer
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 35	2	2025-04-22 10:55:11	Killer
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 30	1	2025-04-22 10:55:11	Killer
+Tuyệt Thế Trấn Phái Võ Đang Tầng 40	1	2025-04-22 18:49:32	Viper99
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 8	1	2025-04-23 15:56:52	MiuuMiuu
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 6	1	2025-04-23 15:56:52	MiuuMiuu
+Liệt Hỏa Tâm Pháp Cấp 18	1	2025-04-23 15:56:52	MiuuMiuu
+Tuyệt Thế Trấn Phái Đường Môn Tầng 3	1	2025-04-23 15:56:52	MiuuMiuu
+Đoàn Gia Tâm Quyết Cấp 18	1	2025-04-23 15:56:52	MiuuMiuu
+Dương Gia Quyết Cấp 19	1	2025-04-23 15:56:52	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 25	1	2025-04-23 15:56:52	MiuuMiuu
+Trấn Lôi Liệt Quyết Cấp 13	1	2025-04-23 15:56:52	MiuuMiuu
+Tây Vực Bí Chú Cấp 15	1	2025-04-23 15:56:52	MiuuMiuu
+Tuyệt Thế Trấn Phái Đường Môn Tầng 29	1	2025-04-23 15:56:52	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 22	1	2025-04-23 15:56:52	MiuuMiuu
+Tuyệt Thế Trấn Phái Đoàn Thị Tầng 24	1	2025-04-23 15:56:52	MiuuMiuu
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 15	1	2025-04-23 15:56:52	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 26	1	2025-04-23 15:57:10	MiuuMiuu
+Như Lai Quyết Cấp 16	1	2025-04-23 15:57:10	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 40	1	2025-04-23 19:07:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 40	2	2025-04-23 19:07:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Đường Môn Tầng 40	1	2025-04-23 19:07:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 40	1	2025-04-23 19:07:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 40	1	2025-04-23 19:07:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 40	1	2025-04-23 19:07:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Cái Bang Tầng 40	1	2025-04-23 19:07:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Võ Đang Tầng 28	1	2025-04-23 19:07:27	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 40	1	2025-04-23 19:10:44	Forever
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 20	1	2025-04-23 19:10:44	Forever
+Tuyệt Thế Trấn Phái Nga My Tầng 38	1	2025-04-23 19:10:44	Forever
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 40	1	2025-04-23 19:10:44	Forever
+Tuyệt Thế Trấn Phái Cái Bang Tầng 38	1	2025-04-23 19:10:44	Forever
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 40	1	2025-04-23 19:10:44	Forever
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 38	1	2025-04-23 19:10:44	Forever
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 29	1	2025-04-23 19:10:44	Forever
+Cuồng Long Quyết Cấp 30	3	2025-04-23 19:20:49	MiuuMiuu
+Trấn Lôi Liệt Quyết Cấp 30	2	2025-04-23 19:20:49	MiuuMiuu
+Cửu Dương Thần Công Cấp 2	1	2025-04-23 19:20:49	MiuuMiuu
+Đường Gia Quyết Cấp 30	1	2025-04-23 19:20:49	MiuuMiuu
+Thánh Hỏa Minh Tâm Cấp 30	1	2025-04-23 19:20:49	MiuuMiuu
+Cửu Dương Thần Công Cấp 14	1	2025-04-23 19:20:49	MiuuMiuu
+Cửu Âm Thần Công Cấp 30	2	2025-04-23 19:20:49	MiuuMiuu
+Tuyệt Thế Trấn Phái Võ Đang Tầng 40	1	2025-04-23 19:20:49	MiuuMiuu
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 39	1	2025-04-23 19:22:07	Forever
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 40	1	2025-04-23 19:22:07	Forever
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 40	1	2025-04-23 19:22:07	Forever
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 38	1	2025-04-23 19:22:07	Forever
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 39	1	2025-04-23 19:22:07	Forever
+Tuyệt Thế Trấn Phái Nga My Tầng 38	1	2025-04-23 19:22:07	Forever
+Tuyệt Thế Trấn Phái Nga My Tầng 40	1	2025-04-23 19:22:19	Forever
+Băng Tâm Quyết Cấp 28	1	2025-04-24 10:07:07	MiuuMiuu
+Tây Vực Bí Chú Cấp 30	1	2025-04-24 10:07:07	MiuuMiuu
+Cuồng Long Quyết Cấp 29	1	2025-04-24 10:07:07	MiuuMiuu
+Dương Gia Quyết Cấp 28	1	2025-04-24 10:07:07	MiuuMiuu
+Đường Gia Quyết Cấp 29	1	2025-04-24 10:07:07	MiuuMiuu
+Như Lai Quyết Cấp 29	1	2025-04-24 10:07:07	MiuuMiuu
+Dương Gia Quyết Cấp 29	1	2025-04-24 10:07:07	MiuuMiuu
+Cửu Âm Thần Công Cấp 28	1	2025-04-24 10:07:07	MiuuMiuu
+Thánh Hỏa Minh Tâm Cấp 29	1	2025-04-24 10:07:07	MiuuMiuu
+Như Lai Quyết Cấp 28	1	2025-04-24 10:07:07	MiuuMiuu
+Cửu Dương Thần Công Cấp 29	1	2025-04-24 10:07:07	MiuuMiuu
+Cửu Dương Thần Công Cấp 28	3	2025-04-24 10:07:07	MiuuMiuu
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 40	1	2025-04-24 10:07:07	MiuuMiuu
+Dương Gia Quyết Cấp 18	1	2025-04-24 11:38:54	MewwMeww
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 22	1	2025-04-24 11:38:54	MewwMeww
+Băng Tâm Quyết Cấp 14	1	2025-04-24 11:38:54	MewwMeww
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 29	2	2025-04-24 11:38:54	MewwMeww
+Liệt Hỏa Tâm Pháp Cấp 18	1	2025-04-24 11:38:54	MewwMeww
+Trấn Lôi Liệt Quyết Cấp 10	1	2025-04-24 11:38:54	MewwMeww
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 28	1	2025-04-24 11:38:54	MewwMeww
+Tuyệt Thế Trấn Phái Võ Đang Tầng 7	1	2025-04-24 11:38:54	MewwMeww
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 16	1	2025-04-24 11:38:54	MewwMeww
+Thánh Hỏa Minh Tâm Cấp 14	1	2025-04-24 11:38:54	MewwMeww
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 25	1	2025-04-24 11:38:54	MewwMeww
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 19	1	2025-04-24 11:38:54	MewwMeww
+Cuồng Long Quyết Cấp 30	1	2025-04-25 10:39:51	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 40	1	2025-04-25 10:39:51	MiuuMiuu
+Liệt Hỏa Tâm Pháp Cấp 28	1	2025-04-25 10:39:51	MiuuMiuu
+Đường Gia Quyết Cấp 30	1	2025-04-25 10:39:51	MiuuMiuu
+Cửu Dương Thần Công Cấp 29	1	2025-04-25 10:39:51	MiuuMiuu
+Liệt Hỏa Tâm Pháp Cấp 30	2	2025-04-25 10:39:51	MiuuMiuu
+Trấn Lôi Liệt Quyết Cấp 27	1	2025-04-25 13:00:25	TeeLàTrà
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 40	1	2025-04-25 13:00:25	TeeLàTrà
+Cuồng Long Quyết Cấp 25	1	2025-04-25 15:33:51	Killer
+Liệt Hỏa Tâm Pháp Cấp 25	1	2025-04-25 15:33:51	Killer
+Cửu Âm Thần Công Cấp 30	1	2025-04-25 15:33:51	Killer
+Băng Tâm Quyết Cấp 30	1	2025-04-25 15:33:51	Killer
+Như Lai Quyết Cấp 25	1	2025-04-25 15:33:51	Killer
+Dương Gia Quyết Cấp 30	2	2025-04-25 15:33:51	Killer
+Trấn Lôi Liệt Quyết Cấp 30	1	2025-04-25 15:33:51	Killer
+Dương Gia Quyết Cấp 25	1	2025-04-25 15:33:51	Killer
+Đoàn Gia Tâm Quyết Cấp 30	1	2025-04-25 15:33:51	Killer
+Đoàn Gia Tâm Quyết Cấp 25	3	2025-04-25 15:33:51	Killer
+Thánh Hỏa Minh Tâm Cấp 25	2	2025-04-25 15:33:51	Killer
+Đường Gia Quyết Cấp 30	1	2025-04-25 16:46:17	Viper99
+Trấn Lôi Liệt Quyết Cấp 30	1	2025-04-25 16:49:18	Killer
+Cửu Âm Thần Công Cấp 30	1	2025-04-25 16:49:18	Killer
+Thánh Hỏa Minh Tâm Cấp 30	1	2025-04-26 10:47:03	MiuuMiuu
+Tuyệt Thế Trấn Phái Đường Môn Tầng 40	1	2025-04-26 10:47:03	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 40	1	2025-04-26 10:47:03	MiuuMiuu
+Tuyệt Thế Trấn Phái Võ Đang Tầng 40	1	2025-04-26 10:47:03	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 40	1	2025-04-26 10:47:03	MiuuMiuu
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 40	1	2025-04-26 16:30:47	Viper97
+Tuyệt Thế Trấn Phái Thúy Yên Tầng 40	1	2025-04-26 16:32:11	Viper97
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 40	1	2025-04-26 16:32:11	Viper97
+Tuyệt Thế Trấn Phái Đoàn Thị Tầng 40	1	2025-04-26 16:32:11	Viper97
+Tuyệt Thế Trấn Phái Nga My Tầng 40	1	2025-04-26 16:32:11	Viper97
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 40	1	2025-04-26 16:32:11	Viper97
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 40	1	2025-04-26 16:32:11	Viper97
+Cửu Dương Thần Công Cấp 13	1	2025-04-26 16:32:56	PewwPeww
+Thánh Hỏa Minh Tâm Cấp 18	1	2025-04-26 16:32:56	PewwPeww
+Như Lai Quyết Cấp 11	1	2025-04-26 16:32:56	PewwPeww
+Đường Gia Quyết Cấp 13	1	2025-04-26 16:32:56	PewwPeww
+Như Lai Quyết Cấp 14	1	2025-04-26 16:32:56	PewwPeww
+Như Lai Quyết Cấp 30	1	2025-04-26 17:09:56	PewwPeww
+Trấn Lôi Liệt Quyết Cấp 29	1	2025-04-26 17:09:56	PewwPeww
+Đoàn Gia Tâm Quyết Cấp 30	1	2025-04-26 17:09:56	PewwPeww
+Thánh Hỏa Minh Tâm Cấp 30	1	2025-04-26 17:09:56	PewwPeww
+Cửu Dương Thần Công Cấp 30	1	2025-04-26 17:09:56	PewwPeww
+Cuồng Long Quyết Cấp 30	1	2025-04-26 17:09:56	PewwPeww
+Băng Tâm Quyết Cấp 29	2	2025-04-26 17:09:56	PewwPeww
+Liệt Hỏa Tâm Pháp Cấp 30	2	2025-04-26 17:09:56	PewwPeww
+Liệt Hỏa Tâm Pháp Cấp 29	2	2025-04-26 17:09:56	PewwPeww
+Trấn Lôi Liệt Quyết Cấp 20	1	2025-04-26 17:09:56	PewwPeww
+Dương Gia Quyết Cấp 29	1	2025-04-26 17:09:56	PewwPeww
+Đoàn Gia Tâm Quyết Cấp 29	1	2025-04-26 17:09:56	PewwPeww
+Thánh Hỏa Minh Tâm Cấp 29	2	2025-04-26 17:09:56	PewwPeww
+Cửu Âm Thần Công Cấp 30	2	2025-04-26 17:09:56	PewwPeww
+Tuyệt Thế Trấn Phái Thiên Vương Tầng 40	2	2025-04-26 17:24:52	PewwPeww
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 40	1	2025-04-26 17:24:52	PewwPeww
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 28	1	2025-04-26 17:24:52	PewwPeww
+Tây Vực Bí Chú Cấp 29	1	2025-04-26 17:24:52	PewwPeww
+Tuyệt Thế Trấn Phái Cái Bang Tầng 40	2	2025-04-26 17:24:52	PewwPeww
+Cửu Âm Thần Công Cấp 30	1	2025-04-26 17:24:52	PewwPeww
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 40	2	2025-04-26 17:24:52	PewwPeww
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 40	1	2025-04-26 17:24:52	PewwPeww
+Tuyệt Thế Trấn Phái Đoàn Thị Tầng 40	1	2025-04-26 17:24:52	PewwPeww
+Tuyệt Thế Trấn Phái Nga My Tầng 40	1	2025-04-26 17:24:52	PewwPeww
+Dương Gia Quyết Cấp 30	1	2025-04-28 19:10:55	Killer
+Trấn Lôi Liệt Quyết Cấp 30	1	2025-04-28 19:10:55	Killer
+Thánh Hỏa Minh Tâm Cấp 25	1	2025-04-28 19:10:55	Killer
+Như Lai Quyết Cấp 25	1	2025-04-28 19:10:55	Killer
+Tây Vực Bí Chú Cấp 19	1	2025-04-28 19:10:55	Killer
+Băng Tâm Quyết Cấp 30	1	2025-04-28 19:10:55	Killer

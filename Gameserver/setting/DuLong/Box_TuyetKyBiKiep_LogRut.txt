@@ -1,0 +1,35 @@
+Ten Vat Pham	So Luong	Time	Nguoi Choi
+Tuyệt Thế Trấn Phái Côn Lôn Tầng 40	1	2025-04-21 23:12:48	TeeLàTrà
+Trấn Lôi Liệt Quyết Cấp 27	1	2025-04-21 23:13:33	TeeLàTrà
+Tuyệt Thế Trấn Phái Thiếu Lâm Tầng 40	1	2025-04-21 23:27:01	TeeLàTrà
+Như Lai Quyết Cấp 30	1	2025-04-21 23:27:11	TeeLàTrà
+Tây Vực Bí Chú Cấp 15	1	2025-04-22 10:17:51	MiuuMiuu
+Dương Gia Quyết Cấp 19	1	2025-04-22 10:48:46	MiuuMiuu
+Tuyệt Thế Trấn Phái Võ Đang Tầng 40	1	2025-04-22 18:48:55	Viper99
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 40	1	2025-04-23 19:19:49	MiuuMiuu
+Tuyệt Thế Trấn Phái Võ Đang Tầng 40	1	2025-04-23 19:25:19	MiuuMiuu
+Tuyệt Thế Trấn Phái Ngũ Độc Tầng 40	1	2025-04-23 21:03:36	Forever
+Tuyệt Thế Trấn Phái Thiên Nhẫn Tầng 40	1	2025-04-24 10:01:56	MiuuMiuu
+Tuyệt Thế Trấn Phái Minh Giáo Tầng 40	1	2025-04-25 11:30:29	MiuuMiuu
+Thánh Hỏa Minh Tâm Cấp 30	1	2025-04-25 11:30:47	MiuuMiuu
+Cửu Âm Thần Công Cấp 30	1	2025-04-25 15:32:11	Killer
+Thánh Hỏa Minh Tâm Cấp 25	2	2025-04-25 15:32:21	Killer
+Cuồng Long Quyết Cấp 25	1	2025-04-25 15:32:43	Killer
+Trấn Lôi Liệt Quyết Cấp 30	1	2025-04-25 15:32:51	Killer
+Băng Tâm Quyết Cấp 30	1	2025-04-25 15:32:57	Killer
+Như Lai Quyết Cấp 25	1	2025-04-25 15:33:03	Killer
+Đoàn Gia Tâm Quyết Cấp 25	3	2025-04-25 15:33:09	Killer
+Liệt Hỏa Tâm Pháp Cấp 25	1	2025-04-25 15:33:16	Killer
+Dương Gia Quyết Cấp 30	2	2025-04-25 15:33:23	Killer
+Đoàn Gia Tâm Quyết Cấp 30	1	2025-04-25 15:33:29	Killer
+Dương Gia Quyết Cấp 25	1	2025-04-25 15:33:36	Killer
+Đường Gia Quyết Cấp 30	1	2025-04-25 16:45:02	Viper99
+Cửu Âm Thần Công Cấp 30	1	2025-04-25 16:48:32	Killer
+Trấn Lôi Liệt Quyết Cấp 30	1	2025-04-25 16:48:46	Killer
+Thánh Hỏa Minh Tâm Cấp 30	1	2025-04-26 17:22:30	PewwPeww
+Như Lai Quyết Cấp 25	1	2025-04-28 19:08:48	Killer
+Dương Gia Quyết Cấp 30	1	2025-04-28 19:09:07	Killer
+Thánh Hỏa Minh Tâm Cấp 25	1	2025-04-28 19:09:22	Killer
+Cửu Âm Thần Công Cấp 30	1	2025-04-28 19:09:31	Killer
+Băng Tâm Quyết Cấp 30	1	2025-04-28 19:10:29	Killer
+Trấn Lôi Liệt Quyết Cấp 30	1	2025-04-28 19:10:44	Killer

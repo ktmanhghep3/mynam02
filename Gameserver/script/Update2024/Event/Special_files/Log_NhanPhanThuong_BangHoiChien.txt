@@ -1,0 +1,1 @@
+TaiKhoan	TenNhanVat	BangHoi	SoTheBangHoi	BangHoiChienLan	TenPhanThuong	ThoiGianNhan	IP
